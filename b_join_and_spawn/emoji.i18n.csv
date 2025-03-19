@@ -1,0 +1,1916 @@
+parent,slug,emoji,en,zh-hans
+0,smileys_emotion,,Smileys & Emotion,笑脸和表情
+0,grinning_face,😀,grinning face,咧嘴笑
+0,grinning_face_with_big_eyes,😃,grinning face with big eyes,咧嘴大笑的大眼睛
+0,grinning_face_with_smiling_eyes,😄,grinning face with smiling eyes,咧嘴笑的大眼睛
+0,beaming_face_with_smiling_eyes,😁,beaming face with smiling eyes,笑眯眯的脸
+0,grinning_squinting_face,😆,grinning squinting face,咧嘴笑的眯缝脸
+0,grinning_face_with_sweat,😅,grinning face with sweat,咧嘴笑得满头大汗
+0,rolling_on_the_floor_laughing,🤣,rolling on the floor laughing,笑得在地上打滚
+0,face_with_tears_of_joy,😂,face with tears of joy,喜极而泣的脸
+0,slightly_smiling_face,🙂,slightly smiling face,微微笑的脸
+0,upside_down_face,🙃,upside-down face,颠倒的脸
+0,melting_face,🫠,melting face,融化的脸
+0,winking_face,😉,winking face,眨眼的脸
+0,smiling_face_with_smiling_eyes,😊,smiling face with smiling eyes,带笑眼的笑脸
+0,smiling_face_with_halo,😇,smiling face with halo,带光环的笑脸
+0,smiling_face_with_hearts,🥰,smiling face with hearts,心形笑脸
+0,smiling_face_with_heart_eyes,😍,smiling face with heart-eyes,带心形眼睛的笑脸
+0,star_struck,🤩,star-struck,追星族
+0,face_blowing_a_kiss,😘,face blowing a kiss,吹吻的脸
+0,kissing_face,😗,kissing face,接吻的脸
+0,smiling_face,☺️,smiling face,笑脸
+0,kissing_face_with_closed_eyes,😚,kissing face with closed eyes,闭眼亲吻的脸
+0,kissing_face_with_smiling_eyes,😙,kissing face with smiling eyes,微笑的吻脸
+0,smiling_face_with_tear,🥲,smiling face with tear,含泪的笑脸
+0,face_savoring_food,😋,face savoring food,品味食物的脸
+0,face_with_tongue,😛,face with tongue,用舌头舔的脸
+0,winking_face_with_tongue,😜,winking face with tongue,眨眼的舌头脸
+0,zany_face,🤪,zany face,怪脸
+0,squinting_face_with_tongue,😝,squinting face with tongue,眯着眼睛的舌头脸
+0,money_mouth_face,🤑,money-mouth face,钱嘴脸
+0,smiling_face_with_open_hands,🤗,smiling face with open hands,张开双手的笑脸
+0,face_with_hand_over_mouth,🤭,face with hand over mouth,手捂嘴的脸
+0,face_with_open_eyes_and_hand_over_mouth,🫢,face with open eyes and hand over mouth,睁眼捂嘴脸
+0,face_with_peeking_eye,🫣,face with peeking eye,偷看的脸
+0,shushing_face,🤫,shushing face,嘘声脸
+0,thinking_face,🤔,thinking face,思考脸
+0,saluting_face,🫡,saluting face,敬礼脸
+0,zipper_mouth_face,🤐,zipper-mouth face,拉链嘴脸
+0,face_with_raised_eyebrow,🤨,face with raised eyebrow,挑眉脸
+0,neutral_face,😐,neutral face,中性脸
+0,expressionless_face,😑,expressionless face,无表情脸
+0,face_without_mouth,😶,face without mouth,无嘴脸
+0,dotted_line_face,🫥,dotted line face,点线面
+0,face_in_clouds,😶‍🌫️,face in clouds,云中脸
+0,smirking_face,😏,smirking face,傻笑的脸
+0,unamused_face,😒,unamused face,无趣的脸
+0,face_with_rolling_eyes,🙄,face with rolling eyes,翻白眼的脸
+0,grimacing_face,😬,grimacing face,龇牙咧嘴的脸
+0,face_exhaling,😮‍💨,face exhaling,呼气的脸
+0,lying_face,🤥,lying face,撒谎的脸
+0,shaking_face,🫨,shaking face,摇晃的脸
+0,head_shaking_horizontally,🙂‍↔️,head shaking horizontally,横摇头
+0,head_shaking_vertically,🙂‍↕️,head shaking vertically,垂直摇头
+0,relieved_face,😌,relieved face,如释重负的脸
+0,pensive_face,😔,pensive face,沉思的脸
+0,sleepy_face,😪,sleepy face,困倦脸
+0,drooling_face,🤤,drooling face,流口水的脸
+0,sleeping_face,😴,sleeping face,睡脸
+0,face_with_bags_under_eyes,🫩,face with bags under eyes,有眼袋的脸
+0,face_with_medical_mask,😷,face with medical mask,戴医用口罩的脸
+0,face_with_thermometer,🤒,face with thermometer,戴温度计的脸
+0,face_with_head_bandage,🤕,face with head-bandage,戴头巾的脸
+0,nauseated_face,🤢,nauseated face,恶心的脸
+0,face_vomiting,🤮,face vomiting,呕吐的脸
+0,sneezing_face,🤧,sneezing face,打喷嚏的脸
+0,hot_face,🥵,hot face,热脸
+0,cold_face,🥶,cold face,冷脸
+0,woozy_face,🥴,woozy face,昏昏沉沉的脸
+0,face_with_crossed_out_eyes,😵,face with crossed-out eyes,斗鸡眼脸
+0,face_with_spiral_eyes,😵‍💫,face with spiral eyes,螺旋眼脸
+0,exploding_head,🤯,exploding head,爆炸头
+0,cowboy_hat_face,🤠,cowboy hat face,牛仔帽脸
+0,partying_face,🥳,partying face,派对脸
+0,disguised_face,🥸,disguised face,乔装打扮的脸
+0,smiling_face_with_sunglasses,😎,smiling face with sunglasses,戴墨镜的笑脸
+0,nerd_face,🤓,nerd face,书呆子脸
+0,face_with_monocle,🧐,face with monocle,戴单片眼镜的脸
+0,confused_face,😕,confused face,困惑的脸
+0,face_with_diagonal_mouth,🫤,face with diagonal mouth,斜嘴脸
+0,worried_face,😟,worried face,忧虑的脸
+0,slightly_frowning_face,🙁,slightly frowning face,微皱眉头的脸
+0,frowning_face,☹️,frowning face,皱眉头的脸
+0,face_with_open_mouth,😮,face with open mouth,张嘴的脸
+0,hushed_face,😯,hushed face,沙哑的脸
+0,astonished_face,😲,astonished face,惊讶的脸
+0,flushed_face,😳,flushed face,潮红的脸
+0,pleading_face,🥺,pleading face,恳求的脸
+0,face_holding_back_tears,🥹,face holding back tears,强忍泪水的脸
+0,frowning_face_with_open_mouth,😦,frowning face with open mouth,张嘴皱眉的脸
+0,anguished_face,😧,anguished face,痛苦的脸
+0,fearful_face,😨,fearful face,恐惧的脸
+0,anxious_face_with_sweat,😰,anxious face with sweat,满头大汗的焦虑脸
+0,sad_but_relieved_face,😥,sad but relieved face,悲伤但如释重负的脸
+0,crying_face,😢,crying face,哭泣的脸
+0,loudly_crying_face,😭,loudly crying face,大声哭泣的脸
+0,face_screaming_in_fear,😱,face screaming in fear,恐惧尖叫的脸
+0,confounded_face,😖,confounded face,困惑的脸
+0,persevering_face,😣,persevering face,坚持不懈的脸
+0,disappointed_face,😞,disappointed face,失望的脸
+0,downcast_face_with_sweat,😓,downcast face with sweat,汗颜
+0,weary_face,😩,weary face,倦容
+0,tired_face,😫,tired face,倦容
+0,yawning_face,🥱,yawning face,打哈欠的脸
+0,face_with_steam_from_nose,😤,face with steam from nose,鼻子冒蒸汽的脸
+0,enraged_face,😡,enraged face,愤怒的脸
+0,angry_face,😠,angry face,愤怒的脸
+0,face_with_symbols_on_mouth,🤬,face with symbols on mouth,嘴上有符号的脸
+0,smiling_face_with_horns,😈,smiling face with horns,带角的笑脸
+0,angry_face_with_horns,👿,angry face with horns,有角的愤怒脸
+0,skull,💀,skull,骷髅头
+0,skull_and_crossbones,☠️,skull and crossbones,骷髅头和交叉骨
+0,pile_of_poo,💩,pile of poo,一堆便便
+0,clown_face,🤡,clown face,小丑脸
+0,ogre,👹,ogre,食人魔
+0,goblin,👺,goblin,妖精
+0,ghost,👻,ghost,幽灵
+0,alien,👽,alien,外星人
+0,alien_monster,👾,alien monster,外星怪物
+0,robot,🤖,robot,机器人
+0,grinning_cat,😺,grinning cat,咧嘴笑的猫
+0,grinning_cat_with_smiling_eyes,😸,grinning cat with smiling eyes,笑眯眯的猫
+0,cat_with_tears_of_joy,😹,cat with tears of joy,喜极而泣的猫咪
+0,smiling_cat_with_heart_eyes,😻,smiling cat with heart-eyes,笑眯眯的猫咪
+0,cat_with_wry_smile,😼,cat with wry smile,狡黠微笑的猫
+0,kissing_cat,😽,kissing cat,亲吻的猫
+0,weary_cat,🙀,weary cat,疲惫的猫
+0,crying_cat,😿,crying cat,哭泣的猫
+0,pouting_cat,😾,pouting cat,撅嘴猫
+0,see_no_evil_monkey,🙈,see-no-evil monkey,见怪不怪的猴子
+0,hear_no_evil_monkey,🙉,hear-no-evil monkey,听不见邪恶的猴子
+0,speak_no_evil_monkey,🙊,speak-no-evil monkey,不会说话的猴子
+0,love_letter,💌,love letter,情书
+0,heart_with_arrow,💘,heart with arrow,带箭头的心
+0,heart_with_ribbon,💝,heart with ribbon,带丝带的心
+0,sparkling_heart,💖,sparkling heart,闪闪发光的心
+0,growing_heart,💗,growing heart,成长的心
+0,beating_heart,💓,beating heart,跳动的心
+0,revolving_hearts,💞,revolving hearts,旋转的心
+0,two_hearts,💕,two hearts,两颗心
+0,heart_decoration,💟,heart decoration,心形装饰
+0,heart_exclamation,❣️,heart exclamation,心的感叹
+0,broken_heart,💔,broken heart,破碎的心
+0,heart_on_fire,❤️‍🔥,heart on fire,燃烧的心
+0,mending_heart,❤️‍🩹,mending heart,修补的心
+0,red_heart,❤️,red heart,红心
+0,pink_heart,🩷,pink heart,粉红之心
+0,orange_heart,🧡,orange heart,橙色心
+0,yellow_heart,💛,yellow heart,黄心
+0,green_heart,💚,green heart,绿心
+0,blue_heart,💙,blue heart,蓝心
+0,light_blue_heart,🩵,light blue heart,浅蓝心
+0,purple_heart,💜,purple heart,紫心
+0,brown_heart,🤎,brown heart,棕心
+0,black_heart,🖤,black heart,黑心
+0,grey_heart,🩶,grey heart,灰色心脏
+0,white_heart,🤍,white heart,白色的心
+0,kiss_mark,💋,kiss mark,吻痕
+0,hundred_points,💯,hundred points,百点
+0,anger_symbol,💢,anger symbol,愤怒符号
+0,collision,💥,collision,碰撞
+0,dizzy,💫,dizzy,晕眩
+0,sweat_droplets,💦,sweat droplets,汗滴
+0,dashing_away,💨,dashing away,冲走
+0,hole,🕳️,hole,洞
+0,speech_balloon,💬,speech balloon,语言气球
+0,eye_in_speech_bubble,👁️‍🗨️,eye in speech bubble,气泡中的眼睛
+0,left_speech_bubble,🗨️,left speech bubble,左气泡
+0,right_anger_bubble,🗯️,right anger bubble,右愤怒气泡
+0,thought_balloon,💭,thought balloon,思想气球
+0,zzz,💤,ZZZ,ZZZ
+1,people_body,,People & Body,人物和身体
+1,waving_hand,👋,waving hand,挥手
+1,raised_back_of_hand,🤚,raised back of hand,高举的手背
+1,hand_with_fingers_splayed,🖐️,hand with fingers splayed,手指张开的手
+1,raised_hand,✋,raised hand,举手
+1,vulcan_salute,🖖,vulcan salute,秃鹰礼
+1,rightwards_hand,🫱,rightwards hand,向右的手
+1,leftwards_hand,🫲,leftwards hand,左手
+1,palm_down_hand,🫳,palm down hand,手心向下
+1,palm_up_hand,🫴,palm up hand,手心向上
+1,leftwards_pushing_hand,🫷,leftwards pushing hand,左推手
+1,rightwards_pushing_hand,🫸,rightwards pushing hand,向右推的手
+1,ok_hand,👌,OK hand,OK手
+1,pinched_fingers,🤌,pinched fingers,捏手指
+1,pinching_hand,🤏,pinching hand,捏手
+1,victory_hand,✌️,victory hand,胜利之手
+1,crossed_fingers,🤞,crossed fingers,交叉手指
+1,hand_with_index_finger_and_thumb_crossed,🫰,hand with index finger and thumb crossed,食指和拇指交叉的手
+1,love_you_gesture,🤟,love-you gesture,爱你的手势
+1,sign_of_the_horns,🤘,sign of the horns,角的手势
+1,call_me_hand,🤙,call me hand,叫我的手
+1,backhand_index_pointing_left,👈,backhand index pointing left,反手食指指向左侧
+1,backhand_index_pointing_right,👉,backhand index pointing right,反手食指指向右
+1,backhand_index_pointing_up,👆,backhand index pointing up,反手食指向上
+1,middle_finger,🖕,middle finger,中指
+1,backhand_index_pointing_down,👇,backhand index pointing down,反手食指向下
+1,index_pointing_up,☝️,index pointing up,食指向上
+1,index_pointing_at_the_viewer,🫵,index pointing at the viewer,食指指向观众
+1,thumbs_up,👍,thumbs up,大拇指向上
+1,thumbs_down,👎,thumbs down,拇指向下
+1,raised_fist,✊,raised fist,举拳
+1,oncoming_fist,👊,oncoming fist,迎面拳
+1,left_facing_fist,🤛,left-facing fist,左拳
+1,right_facing_fist,🤜,right-facing fist,右拳
+1,clapping_hands,👏,clapping hands,拍手
+1,raising_hands,🙌,raising hands,举手
+1,heart_hands,🫶,heart hands,心形手
+1,open_hands,👐,open hands,张开双手
+1,palms_up_together,🤲,palms up together,合掌
+1,handshake,🤝,handshake,握手
+1,folded_hands,🙏,folded hands,合十手
+1,writing_hand,✍️,writing hand,写字的手
+1,nail_polish,💅,nail polish,指甲油
+1,selfie,🤳,selfie,自拍
+1,flexed_biceps,💪,flexed biceps,弯曲的二头肌
+1,mechanical_arm,🦾,mechanical arm,机械手臂
+1,mechanical_leg,🦿,mechanical leg,机械腿
+1,leg,🦵,leg,腿
+1,foot,🦶,foot,脚
+1,ear,👂,ear,耳朵
+1,ear_with_hearing_aid,🦻,ear with hearing aid,带助听器的耳朵
+1,nose,👃,nose,鼻
+1,brain,🧠,brain,大脑
+1,anatomical_heart,🫀,anatomical heart,解剖心脏
+1,lungs,🫁,lungs,肺
+1,tooth,🦷,tooth,牙齿
+1,bone,🦴,bone,骨骼
+1,eyes,👀,eyes,眼睛
+1,eye,👁️,eye,眼
+1,tongue,👅,tongue,舌
+1,mouth,👄,mouth,嘴
+1,biting_lip,🫦,biting lip,咬唇
+1,baby,👶,baby,婴儿
+1,child,🧒,child,孩子
+1,boy,👦,boy,男孩
+1,girl,👧,girl,女孩
+1,person,🧑,person,人
+1,person_blond_hair,👱,person blond hair,金发
+1,man,👨,man,人
+1,person_beard,🧔,person beard,人胡须
+1,man_beard,🧔‍♂️,man beard,男人胡须
+1,woman_beard,🧔‍♀️,woman beard,女人胡须
+1,man_red_hair,👨‍🦰,man red hair,男人红发
+1,man_curly_hair,👨‍🦱,man curly hair,男人卷发
+1,man_white_hair,👨‍🦳,man white hair,男人白发
+1,man_bald,👨‍🦲,man bald,男人秃头
+1,woman,👩,woman,女人
+1,woman_red_hair,👩‍🦰,woman red hair,女人红发
+1,person_red_hair,🧑‍🦰,person red hair,红发人
+1,woman_curly_hair,👩‍🦱,woman curly hair,女人卷发
+1,person_curly_hair,🧑‍🦱,person curly hair,卷发人
+1,woman_white_hair,👩‍🦳,woman white hair,女人白发
+1,person_white_hair,🧑‍🦳,person white hair,白发人
+1,woman_bald,👩‍🦲,woman bald,秃头的女人
+1,person_bald,🧑‍🦲,person bald,秃头者
+1,woman_blond_hair,👱‍♀️,woman blond hair,金发女人
+1,man_blond_hair,👱‍♂️,man blond hair,金发男子
+1,older_person,🧓,older person,老人
+1,old_man,👴,old man,老人
+1,old_woman,👵,old woman,老妇人
+1,person_frowning,🙍,person frowning,皱眉头的人
+1,man_frowning,🙍‍♂️,man frowning,皱眉头的男人
+1,woman_frowning,🙍‍♀️,woman frowning,皱眉头的女人
+1,person_pouting,🙎,person pouting,撅嘴的人
+1,man_pouting,🙎‍♂️,man pouting,男人撅嘴
+1,woman_pouting,🙎‍♀️,woman pouting,女人噘嘴
+1,person_gesturing_no,🙅,person gesturing NO,人做 “不 ”的手势
+1,man_gesturing_no,🙅‍♂️,man gesturing NO,男人手势 NO
+1,woman_gesturing_no,🙅‍♀️,woman gesturing NO,女人手势 NO
+1,person_gesturing_ok,🙆,person gesturing OK,人打手势 OK
+1,man_gesturing_ok,🙆‍♂️,man gesturing OK,男人打手势 OK
+1,woman_gesturing_ok,🙆‍♀️,woman gesturing OK,女性手势 OK
+1,person_tipping_hand,💁,person tipping hand,人倾斜手
+1,man_tipping_hand,💁‍♂️,man tipping hand,男子倾手
+1,woman_tipping_hand,💁‍♀️,woman tipping hand,女士举手
+1,person_raising_hand,🙋,person raising hand,人举手
+1,man_raising_hand,🙋‍♂️,man raising hand,男士举手
+1,woman_raising_hand,🙋‍♀️,woman raising hand,女人举手
+1,deaf_person,🧏,deaf person,聋子
+1,deaf_man,🧏‍♂️,deaf man,聋人
+1,deaf_woman,🧏‍♀️,deaf woman,聋人
+1,person_bowing,🙇,person bowing,鞠躬的人
+1,man_bowing,🙇‍♂️,man bowing,男子鞠躬
+1,woman_bowing,🙇‍♀️,woman bowing,鞠躬的女人
+1,person_facepalming,🤦,person facepalming,人捂着脸
+1,man_facepalming,🤦‍♂️,man facepalming,男人捂脸
+1,woman_facepalming,🤦‍♀️,woman facepalming,女人捂脸
+1,person_shrugging,🤷,person shrugging,人耸肩
+1,man_shrugging,🤷‍♂️,man shrugging,男人耸肩
+1,woman_shrugging,🤷‍♀️,woman shrugging,女人耸肩
+1,health_worker,🧑‍⚕️,health worker,卫生工作者
+1,man_health_worker,👨‍⚕️,man health worker,男保健员
+1,woman_health_worker,👩‍⚕️,woman health worker,女卫生员
+1,student,🧑‍🎓,student,学生
+1,man_student,👨‍🎓,man student,男学生
+1,woman_student,👩‍🎓,woman student,女学生
+1,teacher,🧑‍🏫,teacher,教师
+1,man_teacher,👨‍🏫,man teacher,男教师
+1,woman_teacher,👩‍🏫,woman teacher,女教师
+1,judge,🧑‍⚖️,judge,法官
+1,man_judge,👨‍⚖️,man judge,男法官
+1,woman_judge,👩‍⚖️,woman judge,女法官
+1,farmer,🧑‍🌾,farmer,农民
+1,man_farmer,👨‍🌾,man farmer,男农民
+1,woman_farmer,👩‍🌾,woman farmer,女农民
+1,cook,🧑‍🍳,cook,厨师
+1,man_cook,👨‍🍳,man cook,男厨师
+1,woman_cook,👩‍🍳,woman cook,女厨师
+1,mechanic,🧑‍🔧,mechanic,技工
+1,man_mechanic,👨‍🔧,man mechanic,男技工
+1,woman_mechanic,👩‍🔧,woman mechanic,女技工
+1,factory_worker,🧑‍🏭,factory worker,工厂工人
+1,man_factory_worker,👨‍🏭,man factory worker,工厂男工
+1,woman_factory_worker,👩‍🏭,woman factory worker,工厂女工
+1,office_worker,🧑‍💼,office worker,办公室工人
+1,man_office_worker,👨‍💼,man office worker,男办公室工人
+1,woman_office_worker,👩‍💼,woman office worker,女办公室职员
+1,scientist,🧑‍🔬,scientist,科学家
+1,man_scientist,👨‍🔬,man scientist,男科学家
+1,woman_scientist,👩‍🔬,woman scientist,女科学家
+1,technologist,🧑‍💻,technologist,技术专家
+1,man_technologist,👨‍💻,man technologist,男技术员
+1,woman_technologist,👩‍💻,woman technologist,女技术专家
+1,singer,🧑‍🎤,singer,歌手
+1,man_singer,👨‍🎤,man singer,男歌手
+1,woman_singer,👩‍🎤,woman singer,女歌手
+1,artist,🧑‍🎨,artist,艺术家
+1,man_artist,👨‍🎨,man artist,男艺术家
+1,woman_artist,👩‍🎨,woman artist,女艺术家
+1,pilot,🧑‍✈️,pilot,飞行员
+1,man_pilot,👨‍✈️,man pilot,男飞行员
+1,woman_pilot,👩‍✈️,woman pilot,女飞行员
+1,astronaut,🧑‍🚀,astronaut,宇航员
+1,man_astronaut,👨‍🚀,man astronaut,男宇航员
+1,woman_astronaut,👩‍🚀,woman astronaut,女宇航员
+1,firefighter,🧑‍🚒,firefighter,消防员
+1,man_firefighter,👨‍🚒,man firefighter,男消防员
+1,woman_firefighter,👩‍🚒,woman firefighter,女消防员
+1,police_officer,👮,police officer,警官
+1,man_police_officer,👮‍♂️,man police officer,男警官
+1,woman_police_officer,👮‍♀️,woman police officer,女警官
+1,detective,🕵️,detective,侦探
+1,man_detective,🕵️‍♂️,man detective,男侦探
+1,woman_detective,🕵️‍♀️,woman detective,女侦探
+1,guard,💂,guard,警卫
+1,man_guard,💂‍♂️,man guard,男警卫
+1,woman_guard,💂‍♀️,woman guard,女警卫
+1,ninja,🥷,ninja,忍者
+1,construction_worker,👷,construction worker,建筑工人
+1,man_construction_worker,👷‍♂️,man construction worker,男建筑工人
+1,woman_construction_worker,👷‍♀️,woman construction worker,女建筑工人
+1,person_with_crown,🫅,person with crown,带皇冠的人
+1,prince,🤴,prince,王子
+1,princess,👸,princess,公主
+1,person_wearing_turban,👳,person wearing turban,戴头巾的人
+1,man_wearing_turban,👳‍♂️,man wearing turban,戴头巾的男子
+1,woman_wearing_turban,👳‍♀️,woman wearing turban,戴头巾的女人
+1,person_with_skullcap,👲,person with skullcap,戴头巾的人
+1,woman_with_headscarf,🧕,woman with headscarf,戴头巾的女人
+1,person_in_tuxedo,🤵,person in tuxedo,穿燕尾服的人
+1,man_in_tuxedo,🤵‍♂️,man in tuxedo,穿燕尾服的男士
+1,woman_in_tuxedo,🤵‍♀️,woman in tuxedo,穿燕尾服的女士
+1,person_with_veil,👰,person with veil,戴面纱的人
+1,man_with_veil,👰‍♂️,man with veil,戴面纱的男士
+1,woman_with_veil,👰‍♀️,woman with veil,戴面纱的女人
+1,pregnant_woman,🤰,pregnant woman,孕妇
+1,pregnant_man,🫃,pregnant man,怀孕男子
+1,pregnant_person,🫄,pregnant person,孕妇
+1,breast_feeding,🤱,breast-feeding,哺乳
+1,woman_feeding_baby,👩‍🍼,woman feeding baby,喂养婴儿的妇女
+1,man_feeding_baby,👨‍🍼,man feeding baby,男子喂养婴儿
+1,person_feeding_baby,🧑‍🍼,person feeding baby,喂养婴儿的人
+1,baby_angel,👼,baby angel,婴儿天使
+1,santa_claus,🎅,Santa Claus,圣诞老人
+1,mrs_claus,🤶,Mrs. Claus,圣诞夫人
+1,mx_claus,🧑‍🎄,Mx Claus,圣诞老人
+1,superhero,🦸,superhero,超级英雄
+1,man_superhero,🦸‍♂️,man superhero,男超级英雄
+1,woman_superhero,🦸‍♀️,woman superhero,女超级英雄
+1,supervillain,🦹,supervillain,超级反派
+1,man_supervillain,🦹‍♂️,man supervillain,男人超级反派
+1,woman_supervillain,🦹‍♀️,woman supervillain,女超人
+1,mage,🧙,mage,法师
+1,man_mage,🧙‍♂️,man mage,男法师
+1,woman_mage,🧙‍♀️,woman mage,女法师
+1,fairy,🧚,fairy,仙女
+1,man_fairy,🧚‍♂️,man fairy,男仙女
+1,woman_fairy,🧚‍♀️,woman fairy,女仙
+1,vampire,🧛,vampire,吸血鬼
+1,man_vampire,🧛‍♂️,man vampire,男吸血鬼
+1,woman_vampire,🧛‍♀️,woman vampire,女吸血鬼
+1,merperson,🧜,merperson,人鱼
+1,merman,🧜‍♂️,merman,人鱼
+1,mermaid,🧜‍♀️,mermaid,美人鱼
+1,elf,🧝,elf,精灵
+1,man_elf,🧝‍♂️,man elf,男人精灵
+1,woman_elf,🧝‍♀️,woman elf,女精灵
+1,genie,🧞,genie,精灵
+1,man_genie,🧞‍♂️,man genie,男精灵
+1,woman_genie,🧞‍♀️,woman genie,女精灵
+1,zombie,🧟,zombie,僵尸
+1,man_zombie,🧟‍♂️,man zombie,男人僵尸
+1,woman_zombie,🧟‍♀️,woman zombie,女僵尸
+1,troll,🧌,troll,巨怪
+1,person_getting_massage,💆,person getting massage,按摩的人
+1,man_getting_massage,💆‍♂️,man getting massage,男子按摩
+1,woman_getting_massage,💆‍♀️,woman getting massage,按摩的女人
+1,person_getting_haircut,💇,person getting haircut,理发的人
+1,man_getting_haircut,💇‍♂️,man getting haircut,理发的男人
+1,woman_getting_haircut,💇‍♀️,woman getting haircut,理发的女人
+1,person_walking,🚶,person walking,散步的人
+1,man_walking,🚶‍♂️,man walking,男人散步
+1,woman_walking,🚶‍♀️,woman walking,走路的女人
+1,person_walking_facing_right,🚶‍➡️,person walking facing right,向右走的人
+1,woman_walking_facing_right,🚶‍♀️‍➡️,woman walking facing right,面朝右行走的女人
+1,man_walking_facing_right,🚶‍♂️‍➡️,man walking facing right,男子面向右行走
+1,person_standing,🧍,person standing,人站着
+1,man_standing,🧍‍♂️,man standing,男子站立
+1,woman_standing,🧍‍♀️,woman standing,女人站立
+1,person_kneeling,🧎,person kneeling,人跪着
+1,man_kneeling,🧎‍♂️,man kneeling,男子跪着
+1,woman_kneeling,🧎‍♀️,woman kneeling,女跪
+1,person_kneeling_facing_right,🧎‍➡️,person kneeling facing right,人面向右跪
+1,woman_kneeling_facing_right,🧎‍♀️‍➡️,woman kneeling facing right,女子面向右跪
+1,man_kneeling_facing_right,🧎‍♂️‍➡️,man kneeling facing right,男子面向右跪
+1,person_with_white_cane,🧑‍🦯,person with white cane,手持白色拐杖者
+1,person_with_white_cane_facing_right,🧑‍🦯‍➡️,person with white cane facing right,手持白色拐杖的人面向右
+1,man_with_white_cane,👨‍🦯,man with white cane,手持白色拐杖的男子
+1,man_with_white_cane_facing_right,👨‍🦯‍➡️,man with white cane facing right,手持白色拐杖的男子面向右
+1,woman_with_white_cane,👩‍🦯,woman with white cane,手持白色拐杖的妇女
+1,woman_with_white_cane_facing_right,👩‍🦯‍➡️,woman with white cane facing right,拄白色拐杖的妇女面向右侧
+1,person_in_motorized_wheelchair,🧑‍🦼,person in motorized wheelchair,坐电动轮椅者
+1,person_in_motorized_wheelchair_facing_right,🧑‍🦼‍➡️,person in motorized wheelchair facing right,坐电动轮椅的人面向右侧
+1,man_in_motorized_wheelchair,👨‍🦼,man in motorized wheelchair,坐电动轮椅的男子
+1,man_in_motorized_wheelchair_facing_right,👨‍🦼‍➡️,man in motorized wheelchair facing right,坐在电动轮椅上的男子面向右侧
+1,woman_in_motorized_wheelchair,👩‍🦼,woman in motorized wheelchair,坐在电动轮椅上的妇女
+1,woman_in_motorized_wheelchair_facing_right,👩‍🦼‍➡️,woman in motorized wheelchair facing right,电动轮椅上的女性，面向右侧
+1,person_in_manual_wheelchair,🧑‍🦽,person in manual wheelchair,坐手动轮椅的人
+1,person_in_manual_wheelchair_facing_right,🧑‍🦽‍➡️,person in manual wheelchair facing right,坐在手动轮椅上的人面向右侧
+1,man_in_manual_wheelchair,👨‍🦽,man in manual wheelchair,坐手动轮椅的男子
+1,man_in_manual_wheelchair_facing_right,👨‍🦽‍➡️,man in manual wheelchair facing right,男子坐在手动轮椅上，面向右侧
+1,woman_in_manual_wheelchair,👩‍🦽,woman in manual wheelchair,坐手动轮椅的妇女
+1,woman_in_manual_wheelchair_facing_right,👩‍🦽‍➡️,woman in manual wheelchair facing right,坐在手动轮椅上的妇女面向右侧
+1,person_running,🏃,person running,跑步的人
+1,man_running,🏃‍♂️,man running,男子跑步
+1,woman_running,🏃‍♀️,woman running,女子跑步
+1,person_running_facing_right,🏃‍➡️,person running facing right,人向右跑
+1,woman_running_facing_right,🏃‍♀️‍➡️,woman running facing right,面向右侧跑步的妇女
+1,man_running_facing_right,🏃‍♂️‍➡️,man running facing right,男子向右跑
+1,woman_dancing,💃,woman dancing,女人跳舞
+1,man_dancing,🕺,man dancing,男子跳舞
+1,person_in_suit_levitating,🕴️,person in suit levitating,穿西装的人悬浮
+1,people_with_bunny_ears,👯,people with bunny ears,带兔子耳朵的人
+1,men_with_bunny_ears,👯‍♂️,men with bunny ears,兔耳朵男子
+1,women_with_bunny_ears,👯‍♀️,women with bunny ears,带兔子耳朵的女人
+1,person_in_steamy_room,🧖,person in steamy room,蒸汽房中的人
+1,man_in_steamy_room,🧖‍♂️,man in steamy room,蒸汽房中的男人
+1,woman_in_steamy_room,🧖‍♀️,woman in steamy room,蒸笼里的女人
+1,person_climbing,🧗,person climbing,攀爬的人
+1,man_climbing,🧗‍♂️,man climbing,男子攀爬
+1,woman_climbing,🧗‍♀️,woman climbing,女人登山
+1,person_fencing,🤺,person fencing,击剑
+1,horse_racing,🏇,horse racing,赛马
+1,skier,⛷️,skier,滑雪
+1,snowboarder,🏂,snowboarder,单板滑雪
+1,person_golfing,🏌️,person golfing,人打高尔夫
+1,man_golfing,🏌️‍♂️,man golfing,男子高尔夫
+1,woman_golfing,🏌️‍♀️,woman golfing,女子高尔夫
+1,person_surfing,🏄,person surfing,冲浪
+1,man_surfing,🏄‍♂️,man surfing,男子冲浪
+1,woman_surfing,🏄‍♀️,woman surfing,女子冲浪
+1,person_rowing_boat,🚣,person rowing boat,划船的人
+1,man_rowing_boat,🚣‍♂️,man rowing boat,男子划船
+1,woman_rowing_boat,🚣‍♀️,woman rowing boat,女子划船
+1,person_swimming,🏊,person swimming,人游泳
+1,man_swimming,🏊‍♂️,man swimming,男子游泳
+1,woman_swimming,🏊‍♀️,woman swimming,女子游泳
+1,person_bouncing_ball,⛹️,person bouncing ball,人弹球
+1,man_bouncing_ball,⛹️‍♂️,man bouncing ball,男子弹球
+1,woman_bouncing_ball,⛹️‍♀️,woman bouncing ball,女人弹球
+1,person_lifting_weights,🏋️,person lifting weights,人举重
+1,man_lifting_weights,🏋️‍♂️,man lifting weights,男子举重
+1,woman_lifting_weights,🏋️‍♀️,woman lifting weights,女子举重
+1,person_biking,🚴,person biking,骑自行车的人
+1,man_biking,🚴‍♂️,man biking,男子骑自行车
+1,woman_biking,🚴‍♀️,woman biking,女子骑自行车
+1,person_mountain_biking,🚵,person mountain biking,人骑山地自行车
+1,man_mountain_biking,🚵‍♂️,man mountain biking,男子山地自行车
+1,woman_mountain_biking,🚵‍♀️,woman mountain biking,女子山地自行车
+1,person_cartwheeling,🤸,person cartwheeling,人推车
+1,man_cartwheeling,🤸‍♂️,man cartwheeling,男子翻车
+1,woman_cartwheeling,🤸‍♀️,woman cartwheeling,女子翻车
+1,people_wrestling,🤼,people wrestling,人摔跤
+1,men_wrestling,🤼‍♂️,men wrestling,男子摔跤
+1,women_wrestling,🤼‍♀️,women wrestling,女子摔跤
+1,person_playing_water_polo,🤽,person playing water polo,人打水球
+1,man_playing_water_polo,🤽‍♂️,man playing water polo,男子打水球
+1,woman_playing_water_polo,🤽‍♀️,woman playing water polo,女子打水球
+1,person_playing_handball,🤾,person playing handball,玩手球的人
+1,man_playing_handball,🤾‍♂️,man playing handball,男子打手球
+1,woman_playing_handball,🤾‍♀️,woman playing handball,玩手球的女人
+1,person_juggling,🤹,person juggling,玩杂耍的人
+1,man_juggling,🤹‍♂️,man juggling,男子玩手球
+1,woman_juggling,🤹‍♀️,woman juggling,玩杂耍的女人
+1,person_in_lotus_position,🧘,person in lotus position,莲花
+1,man_in_lotus_position,🧘‍♂️,man in lotus position,男子莲花式
+1,woman_in_lotus_position,🧘‍♀️,woman in lotus position,女子莲花座
+1,person_taking_bath,🛀,person taking bath,人在洗澡
+1,person_in_bed,🛌,person in bed,床上的人
+1,people_holding_hands,🧑‍🤝‍🧑,people holding hands,牵手的人
+1,women_holding_hands,👭,women holding hands,牵手的女人
+1,woman_and_man_holding_hands,👫,woman and man holding hands,男女牵手
+1,men_holding_hands,👬,men holding hands,男人牵手
+1,kiss,💏,kiss,接吻
+1,kiss_woman_man,👩‍❤️‍💋‍👨,"kiss woman, man",亲吻女人、男人
+1,kiss_man_man,👨‍❤️‍💋‍👨,"kiss man, man",吻男人，男人
+1,kiss_woman_woman,👩‍❤️‍💋‍👩,"kiss woman, woman",亲吻女人，女人
+1,couple_with_heart,💑,couple with heart,心形情侣
+1,couple_with_heart_woman_man,👩‍❤️‍👨,"couple with heart woman, man",有心情侣 女人，男人
+1,couple_with_heart_man_man,👨‍❤️‍👨,"couple with heart man, man",有心情侣，男，男
+1,couple_with_heart_woman_woman,👩‍❤️‍👩,"couple with heart woman, woman",心心相印的情侣 女人、女人
+1,family_man_woman_boy,👨‍👩‍👦,"family man, woman, boy",家庭男人、女人、男孩
+1,family_man_woman_girl,👨‍👩‍👧,"family man, woman, girl",家庭男女、女孩
+1,family_man_woman_girl_boy,👨‍👩‍👧‍👦,"family man, woman, girl, boy",家庭男女、女孩、男孩
+1,family_man_woman_boy_boy,👨‍👩‍👦‍👦,"family man, woman, boy, boy",家庭中的男人、女人、男孩、男孩
+1,family_man_woman_girl_girl,👨‍👩‍👧‍👧,"family man, woman, girl, girl",家庭男女、女孩、男孩
+1,family_man_man_boy,👨‍👨‍👦,"family man, man, boy",家庭男人、男人、男孩
+1,family_man_man_girl,👨‍👨‍👧,"family man, man, girl",家庭男人、男人、女孩
+1,family_man_man_girl_boy,👨‍👨‍👧‍👦,"family man, man, girl, boy",家庭男人、男人、女孩、男孩
+1,family_man_man_boy_boy,👨‍👨‍👦‍👦,"family man, man, boy, boy",家庭男人、男人、男孩、男孩
+1,family_man_man_girl_girl,👨‍👨‍👧‍👧,"family man, man, girl, girl",家庭男人、男人、女孩、女孩
+1,family_woman_woman_boy,👩‍👩‍👦,"family woman, woman, boy",家庭女人、女人、男孩
+1,family_woman_woman_girl,👩‍👩‍👧,"family woman, woman, girl",家庭女人、女人、女孩
+1,family_woman_woman_girl_boy,👩‍👩‍👧‍👦,"family woman, woman, girl, boy",家庭女人、女人、女孩、男孩
+1,family_woman_woman_boy_boy,👩‍👩‍👦‍👦,"family woman, woman, boy, boy",家庭女人、女人、男孩、男孩
+1,family_woman_woman_girl_girl,👩‍👩‍👧‍👧,"family woman, woman, girl, girl",家庭女人、女人、女孩、女孩
+1,family_man_boy,👨‍👦,"family man, boy",家庭男人、男孩
+1,family_man_boy_boy,👨‍👦‍👦,"family man, boy, boy",家庭男子、男孩、男孩
+1,family_man_girl,👨‍👧,"family man, girl",家庭男子、女子
+1,family_man_girl_boy,👨‍👧‍👦,"family man, girl, boy",家庭男子、女孩、男孩
+1,family_man_girl_girl,👨‍👧‍👧,"family man, girl, girl",家庭男子、女子、女子
+1,family_woman_boy,👩‍👦,"family woman, boy",家庭妇女、男孩
+1,family_woman_boy_boy,👩‍👦‍👦,"family woman, boy, boy",家庭妇女、男孩、男孩
+1,family_woman_girl,👩‍👧,"family woman, girl",家庭妇女、女孩
+1,family_woman_girl_boy,👩‍👧‍👦,"family woman, girl, boy",家庭妇女、女孩、男孩
+1,family_woman_girl_girl,👩‍👧‍👧,"family woman, girl, girl",家庭妇女、女孩、女孩
+1,speaking_head,🗣️,speaking head,说话头像
+1,bust_in_silhouette,👤,bust in silhouette,半身剪影
+1,busts_in_silhouette,👥,busts in silhouette,半身剪影
+1,people_hugging,🫂,people hugging,拥抱的人们
+1,family,👪,family,家庭
+1,family_adult_adult_child,🧑‍🧑‍🧒,"family adult, adult, child",家庭成人、成人、儿童
+1,family_adult_adult_child_child,🧑‍🧑‍🧒‍🧒,"family adult, adult, child, child",家庭成人、成人、儿童、儿童
+1,family_adult_child,🧑‍🧒,"family adult, child",家庭成人、儿童
+1,family_adult_child_child,🧑‍🧒‍🧒,"family adult, child, child",家庭成人、儿童、儿童
+1,footprints,👣,footprints,脚印
+1,fingerprint,🫆,fingerprint,指纹
+2,animals_nature,,Animals & Nature,动物与自然
+2,monkey_face,🐵,monkey face,猴脸
+2,monkey,🐒,monkey,猴子
+2,gorilla,🦍,gorilla,大猩猩
+2,orangutan,🦧,orangutan,猩猩
+2,dog_face,🐶,dog face,狗脸
+2,dog,🐕,dog,狗
+2,guide_dog,🦮,guide dog,导盲犬
+2,service_dog,🐕‍🦺,service dog,服务犬
+2,poodle,🐩,poodle,贵宾犬
+2,wolf,🐺,wolf,狼
+2,fox,🦊,fox,狐狸
+2,raccoon,🦝,raccoon,浣熊
+2,cat_face,🐱,cat face,猫脸
+2,cat,🐈,cat,猫
+2,black_cat,🐈‍⬛,black cat,黑猫
+2,lion,🦁,lion,狮子
+2,tiger_face,🐯,tiger face,虎脸
+2,tiger,🐅,tiger,老虎
+2,leopard,🐆,leopard,豹
+2,horse_face,🐴,horse face,马脸
+2,moose,🫎,moose,驼鹿
+2,donkey,🫏,donkey,驴
+2,horse,🐎,horse,马
+2,unicorn,🦄,unicorn,独角兽
+2,zebra,🦓,zebra,斑马
+2,deer,🦌,deer,鹿
+2,bison,🦬,bison,野牛
+2,cow_face,🐮,cow face,牛脸
+2,ox,🐂,ox,黄牛
+2,water_buffalo,🐃,water buffalo,水牛
+2,cow,🐄,cow,牛
+2,pig_face,🐷,pig face,猪脸
+2,pig,🐖,pig,猪
+2,boar,🐗,boar,野猪
+2,pig_nose,🐽,pig nose,猪鼻子
+2,ram,🐏,ram,公羊
+2,ewe,🐑,ewe,母羊
+2,goat,🐐,goat,山羊
+2,camel,🐪,camel,骆驼
+2,two_hump_camel,🐫,two-hump camel,双峰驼
+2,llama,🦙,llama,美洲驼
+2,giraffe,🦒,giraffe,长颈鹿
+2,elephant,🐘,elephant,大象
+2,mammoth,🦣,mammoth,猛犸象
+2,rhinoceros,🦏,rhinoceros,犀牛
+2,hippopotamus,🦛,hippopotamus,河马
+2,mouse_face,🐭,mouse face,鼠脸
+2,mouse,🐁,mouse,老鼠
+2,rat,🐀,rat,大鼠
+2,hamster,🐹,hamster,仓鼠
+2,rabbit_face,🐰,rabbit face,兔子脸
+2,rabbit,🐇,rabbit,兔子
+2,chipmunk,🐿️,chipmunk,花栗鼠
+2,beaver,🦫,beaver,海狸
+2,hedgehog,🦔,hedgehog,刺猬
+2,bat,🦇,bat,蝙蝠
+2,bear,🐻,bear,熊
+2,polar_bear,🐻‍❄️,polar bear,北极熊
+2,koala,🐨,koala,考拉
+2,panda,🐼,panda,熊猫
+2,sloth,🦥,sloth,树懒
+2,otter,🦦,otter,水獭
+2,skunk,🦨,skunk,臭鼬
+2,kangaroo,🦘,kangaroo,袋鼠
+2,badger,🦡,badger,獾
+2,paw_prints,🐾,paw prints,爪印
+2,turkey,🦃,turkey,火鸡
+2,chicken,🐔,chicken,鸡
+2,rooster,🐓,rooster,公鸡
+2,hatching_chick,🐣,hatching chick,孵化小鸡
+2,baby_chick,🐤,baby chick,雏鸟
+2,front_facing_baby_chick,🐥,front-facing baby chick,正面雏鸟
+2,bird,🐦,bird,鸟
+2,penguin,🐧,penguin,企鹅
+2,dove,🕊️,dove,鸽子
+2,eagle,🦅,eagle,鹰
+2,duck,🦆,duck,鸭子
+2,swan,🦢,swan,天鹅
+2,owl,🦉,owl,猫头鹰
+2,dodo,🦤,dodo,渡渡鸟
+2,feather,🪶,feather,羽毛
+2,flamingo,🦩,flamingo,火烈鸟
+2,peacock,🦚,peacock,孔雀
+2,parrot,🦜,parrot,鹦鹉
+2,wing,🪽,wing,翅膀
+2,black_bird,🐦‍⬛,black bird,黑鸟
+2,goose,🪿,goose,鹅
+2,phoenix,🐦‍🔥,phoenix,凤凰
+2,frog,🐸,frog,青蛙
+2,crocodile,🐊,crocodile,鳄鱼
+2,turtle,🐢,turtle,乌龟
+2,lizard,🦎,lizard,蜥蜴
+2,snake,🐍,snake,蛇
+2,dragon_face,🐲,dragon face,龙脸
+2,dragon,🐉,dragon,龙
+2,sauropod,🦕,sauropod,蜥脚类
+2,t_rex,🦖,T-Rex,霸王龙
+2,spouting_whale,🐳,spouting whale,喷口鲸
+2,whale,🐋,whale,鲸鱼
+2,dolphin,🐬,dolphin,海豚
+2,seal,🦭,seal,海豹
+2,fish,🐟,fish,鱼类
+2,tropical_fish,🐠,tropical fish,热带鱼
+2,blowfish,🐡,blowfish,河豚
+2,shark,🦈,shark,鲨鱼
+2,octopus,🐙,octopus,章鱼
+2,spiral_shell,🐚,spiral shell,螺旋贝
+2,coral,🪸,coral,珊瑚
+2,jellyfish,🪼,jellyfish,水母
+2,crab,🦀,crab,螃蟹
+2,lobster,🦞,lobster,龙虾
+2,shrimp,🦐,shrimp,虾
+2,squid,🦑,squid,鱿鱼
+2,oyster,🦪,oyster,牡蛎
+2,snail,🐌,snail,蜗牛
+2,butterfly,🦋,butterfly,蝴蝶
+2,bug,🐛,bug,小虫
+2,ant,🐜,ant,蚂蚁
+2,honeybee,🐝,honeybee,蜜蜂
+2,beetle,🪲,beetle,甲虫
+2,lady_beetle,🐞,lady beetle,瓢虫
+2,cricket,🦗,cricket,蟋蟀
+2,cockroach,🪳,cockroach,蟑螂
+2,spider,🕷️,spider,蜘蛛
+2,spider_web,🕸️,spider web,蜘蛛网
+2,scorpion,🦂,scorpion,蝎子
+2,mosquito,🦟,mosquito,蚊子
+2,fly,🪰,fly,苍蝇
+2,worm,🪱,worm,蠕虫
+2,microbe,🦠,microbe,微生物
+2,bouquet,💐,bouquet,花束
+2,cherry_blossom,🌸,cherry blossom,樱花
+2,white_flower,💮,white flower,白花
+2,lotus,🪷,lotus,莲花
+2,rosette,🏵️,rosette,玫瑰
+2,rose,🌹,rose,玫瑰
+2,wilted_flower,🥀,wilted flower,枯萎的花
+2,hibiscus,🌺,hibiscus,木槿
+2,sunflower,🌻,sunflower,向日葵
+2,blossom,🌼,blossom,花
+2,tulip,🌷,tulip,郁金香
+2,hyacinth,🪻,hyacinth,风信子
+2,seedling,🌱,seedling,幼苗
+2,potted_plant,🪴,potted plant,盆栽
+2,evergreen_tree,🌲,evergreen tree,常绿树
+2,deciduous_tree,🌳,deciduous tree,落叶树
+2,palm_tree,🌴,palm tree,棕榈树
+2,cactus,🌵,cactus,仙人掌
+2,sheaf_of_rice,🌾,sheaf of rice,稻穗
+2,herb,🌿,herb,香草
+2,shamrock,☘️,shamrock,三叶草
+2,four_leaf_clover,🍀,four leaf clover,四叶草
+2,maple_leaf,🍁,maple leaf,枫叶
+2,fallen_leaf,🍂,fallen leaf,落叶
+2,leaf_fluttering_in_wind,🍃,leaf fluttering in wind,随风飘动的叶子
+2,empty_nest,🪹,empty nest,空巢
+2,nest_with_eggs,🪺,nest with eggs,带蛋的巢
+2,mushroom,🍄,mushroom,蘑菇
+2,leafless_tree,🪾,leafless tree,无叶树
+3,food_drink,,Food & Drink,食品与饮料
+3,grapes,🍇,grapes,葡萄
+3,melon,🍈,melon,甜瓜
+3,watermelon,🍉,watermelon,西瓜
+3,tangerine,🍊,tangerine,橘子
+3,lemon,🍋,lemon,柠檬
+3,lime,🍋‍🟩,lime,酸橙
+3,banana,🍌,banana,香蕉
+3,pineapple,🍍,pineapple,菠萝
+3,mango,🥭,mango,芒果
+3,red_apple,🍎,red apple,红苹果
+3,green_apple,🍏,green apple,青苹果
+3,pear,🍐,pear,梨
+3,peach,🍑,peach,桃子
+3,cherries,🍒,cherries,樱桃
+3,strawberry,🍓,strawberry,草莓
+3,blueberries,🫐,blueberries,蓝莓
+3,kiwi_fruit,🥝,kiwi fruit,猕猴桃
+3,tomato,🍅,tomato,番茄
+3,olive,🫒,olive,橄榄
+3,coconut,🥥,coconut,椰子
+3,avocado,🥑,avocado,鳄梨
+3,eggplant,🍆,eggplant,茄子
+3,potato,🥔,potato,土豆
+3,carrot,🥕,carrot,胡萝卜
+3,ear_of_corn,🌽,ear of corn,玉米穗
+3,hot_pepper,🌶️,hot pepper,辣椒
+3,bell_pepper,🫑,bell pepper,甜椒
+3,cucumber,🥒,cucumber,黄瓜
+3,leafy_green,🥬,leafy green,绿叶菜
+3,broccoli,🥦,broccoli,椰菜
+3,garlic,🧄,garlic,大蒜
+3,onion,🧅,onion,洋葱
+3,peanuts,🥜,peanuts,花生
+3,beans,🫘,beans,豆类
+3,chestnut,🌰,chestnut,栗子
+3,ginger_root,🫚,ginger root,姜根
+3,pea_pod,🫛,pea pod,豌豆荚
+3,brown_mushroom,🍄‍🟫,brown mushroom,褐菇
+3,root_vegetable,🫜,root vegetable,根菜
+3,bread,🍞,bread,面包
+3,croissant,🥐,croissant,羊角面包
+3,baguette_bread,🥖,baguette bread,法棍面包
+3,flatbread,🫓,flatbread,扁面包
+3,pretzel,🥨,pretzel,椒盐脆饼
+3,bagel,🥯,bagel,面包圈
+3,pancakes,🥞,pancakes,薄煎饼
+3,waffle,🧇,waffle,华夫饼
+3,cheese_wedge,🧀,cheese wedge,楔形奶酪
+3,meat_on_bone,🍖,meat on bone,带骨肉
+3,poultry_leg,🍗,poultry leg,禽腿
+3,cut_of_meat,🥩,cut of meat,切肉
+3,bacon,🥓,bacon,熏肉
+3,hamburger,🍔,hamburger,汉堡包
+3,french_fries,🍟,french fries,炸薯条
+3,pizza,🍕,pizza,比萨饼
+3,hot_dog,🌭,hot dog,热狗
+3,sandwich,🥪,sandwich,三明治
+3,taco,🌮,taco,玉米卷
+3,burrito,🌯,burrito,卷饼
+3,tamale,🫔,tamale,墨西哥玉米卷
+3,stuffed_flatbread,🥙,stuffed flatbread,带馅扁面包
+3,falafel,🧆,falafel,沙拉三明治
+3,egg,🥚,egg,鸡蛋
+3,cooking,🍳,cooking,烹饪
+3,shallow_pan_of_food,🥘,shallow pan of food,浅盘食物
+3,pot_of_food,🍲,pot of food,锅
+3,fondue,🫕,fondue,火锅
+3,bowl_with_spoon,🥣,bowl with spoon,带勺碗
+3,green_salad,🥗,green salad,绿色沙拉
+3,popcorn,🍿,popcorn,爆米花
+3,butter,🧈,butter,黄油
+3,salt,🧂,salt,盐
+3,canned_food,🥫,canned food,罐头食品
+3,bento_box,🍱,bento box,便当盒
+3,rice_cracker,🍘,rice cracker,米饼
+3,rice_ball,🍙,rice ball,饭团
+3,cooked_rice,🍚,cooked rice,熟饭
+3,curry_rice,🍛,curry rice,咖喱饭
+3,steaming_bowl,🍜,steaming bowl,蒸碗
+3,spaghetti,🍝,spaghetti,意大利面
+3,roasted_sweet_potato,🍠,roasted sweet potato,烤红薯
+3,oden,🍢,oden,关东煮
+3,sushi,🍣,sushi,寿司
+3,fried_shrimp,🍤,fried shrimp,炸虾
+3,fish_cake_with_swirl,🍥,fish cake with swirl,漩涡鱼饼
+3,moon_cake,🥮,moon cake,月饼
+3,dango,🍡,dango,团子
+3,dumpling,🥟,dumpling,饺子
+3,fortune_cookie,🥠,fortune cookie,幸运饼
+3,takeout_box,🥡,takeout box,外卖盒
+3,soft_ice_cream,🍦,soft ice cream,软冰淇淋
+3,shaved_ice,🍧,shaved ice,刨冰
+3,ice_cream,🍨,ice cream,冰淇淋
+3,doughnut,🍩,doughnut,甜甜圈
+3,cookie,🍪,cookie,饼干
+3,birthday_cake,🎂,birthday cake,生日蛋糕
+3,shortcake,🍰,shortcake,酥饼
+3,cupcake,🧁,cupcake,纸杯蛋糕
+3,pie,🥧,pie,派
+3,chocolate_bar,🍫,chocolate bar,巧克力棒
+3,candy,🍬,candy,糖果
+3,lollipop,🍭,lollipop,棒棒糖
+3,custard,🍮,custard,奶油冻
+3,honey_pot,🍯,honey pot,蜜罐
+3,baby_bottle,🍼,baby bottle,奶瓶
+3,glass_of_milk,🥛,glass of milk,牛奶杯
+3,hot_beverage,☕,hot beverage,热饮
+3,teapot,🫖,teapot,茶壶
+3,teacup_without_handle,🍵,teacup without handle,无柄茶杯
+3,sake,🍶,sake,清酒
+3,bottle_with_popping_cork,🍾,bottle with popping cork,瓶塞
+3,wine_glass,🍷,wine glass,酒杯
+3,cocktail_glass,🍸,cocktail glass,鸡尾酒杯
+3,tropical_drink,🍹,tropical drink,热带饮料
+3,beer_mug,🍺,beer mug,啤酒杯
+3,clinking_beer_mugs,🍻,clinking beer mugs,碰杯啤酒杯
+3,clinking_glasses,🥂,clinking glasses,碰杯
+3,tumbler_glass,🥃,tumbler glass,不倒翁玻璃杯
+3,pouring_liquid,🫗,pouring liquid,倒液体
+3,cup_with_straw,🥤,cup with straw,带吸管的杯子
+3,bubble_tea,🧋,bubble tea,泡沫红茶
+3,beverage_box,🧃,beverage box,饮料盒
+3,mate,🧉,mate,伴侣
+3,ice,🧊,ice,冰块
+3,chopsticks,🥢,chopsticks,筷子
+3,fork_and_knife_with_plate,🍽️,fork and knife with plate,带盘子的刀叉
+3,fork_and_knife,🍴,fork and knife,刀叉
+3,spoon,🥄,spoon,汤匙
+3,kitchen_knife,🔪,kitchen knife,菜刀
+3,jar,🫙,jar,罐子
+3,amphora,🏺,amphora,双耳瓶
+4,travel_places,,Travel & Places,旅行和地点
+4,globe_showing_europe_africa,🌍,globe showing Europe-Africa,显示欧洲和非洲的地球仪
+4,globe_showing_americas,🌎,globe showing Americas,显示美洲的地球仪
+4,globe_showing_asia_australia,🌏,globe showing Asia-Australia,显示亚洲-澳大利亚的地球仪
+4,globe_with_meridians,🌐,globe with meridians,带经线的地球仪
+4,world_map,🗺️,world map,世界地图
+4,map_of_japan,🗾,map of Japan,日本地图
+4,compass,🧭,compass,指南针
+4,snow_capped_mountain,🏔️,snow-capped mountain,雪山
+4,mountain,⛰️,mountain,山
+4,volcano,🌋,volcano,火山
+4,mount_fuji,🗻,mount fuji,富士山
+4,camping,🏕️,camping,露营
+4,beach_with_umbrella,🏖️,beach with umbrella,带伞海滩
+4,desert,🏜️,desert,沙漠
+4,desert_island,🏝️,desert island,荒岛
+4,national_park,🏞️,national park,国家公园
+4,stadium,🏟️,stadium,体育场
+4,classical_building,🏛️,classical building,古典建筑
+4,building_construction,🏗️,building construction,建筑
+4,brick,🧱,brick,砖
+4,rock,🪨,rock,岩石
+4,wood,🪵,wood,木材
+4,hut,🛖,hut,小屋
+4,houses,🏘️,houses,房屋
+4,derelict_house,🏚️,derelict house,废弃房屋
+4,house,🏠,house,房屋
+4,house_with_garden,🏡,house with garden,带花园的房屋
+4,office_building,🏢,office building,办公楼
+4,japanese_post_office,🏣,Japanese post office,日本邮局
+4,post_office,🏤,post office,邮局
+4,hospital,🏥,hospital,医院
+4,bank,🏦,bank,银行
+4,hotel,🏨,hotel,旅馆
+4,love_hotel,🏩,love hotel,爱情旅馆
+4,convenience_store,🏪,convenience store,便利店
+4,school,🏫,school,学校
+4,department_store,🏬,department store,百货公司
+4,factory,🏭,factory,工厂
+4,japanese_castle,🏯,Japanese castle,日本城堡
+4,castle,🏰,castle,城堡
+4,wedding,💒,wedding,婚礼
+4,tokyo_tower,🗼,Tokyo tower,东京塔
+4,statue_of_liberty,🗽,Statue of Liberty,自由女神像
+4,church,⛪,church,教堂
+4,mosque,🕌,mosque,清真寺
+4,hindu_temple,🛕,hindu temple,印度教寺庙
+4,synagogue,🕍,synagogue,犹太教堂
+4,shinto_shrine,⛩️,shinto shrine,神社
+4,kaaba,🕋,kaaba,卡巴
+4,fountain,⛲,fountain,喷泉
+4,tent,⛺,tent,帐篷
+4,foggy,🌁,foggy,大雾
+4,night_with_stars,🌃,night with stars,星夜
+4,cityscape,🏙️,cityscape,城市景观
+4,sunrise_over_mountains,🌄,sunrise over mountains,山间日出
+4,sunrise,🌅,sunrise,日出
+4,cityscape_at_dusk,🌆,cityscape at dusk,黄昏的城市景观
+4,sunset,🌇,sunset,日落
+4,bridge_at_night,🌉,bridge at night,夜晚的桥
+4,hot_springs,♨️,hot springs,温泉
+4,carousel_horse,🎠,carousel horse,旋转木马
+4,playground_slide,🛝,playground slide,游乐场滑梯
+4,ferris_wheel,🎡,ferris wheel,摩天轮
+4,roller_coaster,🎢,roller coaster,过山车
+4,barber_pole,💈,barber pole,理发杆
+4,circus_tent,🎪,circus tent,马戏团帐篷
+4,locomotive,🚂,locomotive,火车头
+4,railway_car,🚃,railway car,火车车厢
+4,high_speed_train,🚄,high-speed train,高速列车
+4,bullet_train,🚅,bullet train,子弹头列车
+4,train,🚆,train,火车
+4,metro,🚇,metro,地铁
+4,light_rail,🚈,light rail,轻轨
+4,station,🚉,station,车站
+4,tram,🚊,tram,有轨电车
+4,monorail,🚝,monorail,单轨铁路
+4,mountain_railway,🚞,mountain railway,山区铁路
+4,tram_car,🚋,tram car,有轨电车
+4,bus,🚌,bus,公共汽车
+4,oncoming_bus,🚍,oncoming bus,迎面而来的公共汽车
+4,trolleybus,🚎,trolleybus,无轨电车
+4,minibus,🚐,minibus,小巴
+4,ambulance,🚑,ambulance,救护车
+4,fire_engine,🚒,fire engine,消防车
+4,police_car,🚓,police car,警车
+4,oncoming_police_car,🚔,oncoming police car,迎面而来的警车
+4,taxi,🚕,taxi,出租车
+4,oncoming_taxi,🚖,oncoming taxi,迎面而来的出租车
+4,automobile,🚗,automobile,汽车
+4,oncoming_automobile,🚘,oncoming automobile,迎面而来的汽车
+4,sport_utility_vehicle,🚙,sport utility vehicle,运动型多用途车
+4,pickup_truck,🛻,pickup truck,皮卡车
+4,delivery_truck,🚚,delivery truck,运货卡车
+4,articulated_lorry,🚛,articulated lorry,铰接式货车
+4,tractor,🚜,tractor,拖拉机
+4,racing_car,🏎️,racing car,赛车
+4,motorcycle,🏍️,motorcycle,摩托车
+4,motor_scooter,🛵,motor scooter,摩托车
+4,manual_wheelchair,🦽,manual wheelchair,手动轮椅
+4,motorized_wheelchair,🦼,motorized wheelchair,电动轮椅
+4,auto_rickshaw,🛺,auto rickshaw,自动人力车
+4,bicycle,🚲,bicycle,自行车
+4,kick_scooter,🛴,kick scooter,脚踏滑板车
+4,skateboard,🛹,skateboard,滑板
+4,roller_skate,🛼,roller skate,旱冰鞋
+4,bus_stop,🚏,bus stop,公共汽车站
+4,motorway,🛣️,motorway,高速公路
+4,railway_track,🛤️,railway track,铁轨
+4,oil_drum,🛢️,oil drum,油桶
+4,fuel_pump,⛽,fuel pump,燃油泵
+4,wheel,🛞,wheel,车轮
+4,police_car_light,🚨,police car light,警车灯
+4,horizontal_traffic_light,🚥,horizontal traffic light,水平交通灯
+4,vertical_traffic_light,🚦,vertical traffic light,垂直交通灯
+4,stop_sign,🛑,stop sign,停车标志
+4,construction,🚧,construction,建筑
+4,anchor,⚓,anchor,锚
+4,ring_buoy,🛟,ring buoy,环形浮标
+4,sailboat,⛵,sailboat,帆船
+4,canoe,🛶,canoe,独木舟
+4,speedboat,🚤,speedboat,快艇
+4,passenger_ship,🛳️,passenger ship,客船
+4,ferry,⛴️,ferry,渡轮
+4,motor_boat,🛥️,motor boat,摩托艇
+4,ship,🚢,ship,轮船
+4,airplane,✈️,airplane,飞机
+4,small_airplane,🛩️,small airplane,小型飞机
+4,airplane_departure,🛫,airplane departure,飞机起飞
+4,airplane_arrival,🛬,airplane arrival,飞机抵达
+4,parachute,🪂,parachute,降落伞
+4,seat,💺,seat,座椅
+4,helicopter,🚁,helicopter,直升机
+4,suspension_railway,🚟,suspension railway,悬挂式铁路
+4,mountain_cableway,🚠,mountain cableway,登山索道
+4,aerial_tramway,🚡,aerial tramway,架空索道
+4,satellite,🛰️,satellite,卫星
+4,rocket,🚀,rocket,火箭
+4,flying_saucer,🛸,flying saucer,飞碟
+4,bellhop_bell,🛎️,bellhop bell,侍者铃
+4,luggage,🧳,luggage,行李箱
+4,hourglass_done,⌛,hourglass done,沙漏已完成
+4,hourglass_not_done,⏳,hourglass not done,沙漏未完成
+4,watch,⌚,watch,手表
+4,alarm_clock,⏰,alarm clock,闹钟
+4,stopwatch,⏱️,stopwatch,秒表
+4,timer_clock,⏲️,timer clock,定时钟
+4,mantelpiece_clock,🕰️,mantelpiece clock,壁炉钟
+4,twelve_o_clock,🕛,twelve o’clock,十二点钟
+4,twelve_thirty,🕧,twelve-thirty,十二点半
+4,one_o_clock,🕐,one o’clock,一点钟
+4,one_thirty,🕜,one-thirty,一点半
+4,two_o_clock,🕑,two o’clock,两点钟
+4,two_thirty,🕝,two-thirty,两点半
+4,three_o_clock,🕒,three o’clock,三点钟
+4,three_thirty,🕞,three-thirty,三点半
+4,four_o_clock,🕓,four o’clock,四点钟
+4,four_thirty,🕟,four-thirty,四点半
+4,five_o_clock,🕔,five o’clock,五点
+4,five_thirty,🕠,five-thirty,五点半
+4,six_o_clock,🕕,six o’clock,六点
+4,six_thirty,🕡,six-thirty,六点半
+4,seven_o_clock,🕖,seven o’clock,七点
+4,seven_thirty,🕢,seven-thirty,七点半
+4,eight_o_clock,🕗,eight o’clock,八点
+4,eight_thirty,🕣,eight-thirty,八点半
+4,nine_o_clock,🕘,nine o’clock,九点钟
+4,nine_thirty,🕤,nine-thirty,九点半
+4,ten_o_clock,🕙,ten o’clock,十点钟
+4,ten_thirty,🕥,ten-thirty,十点半
+4,eleven_o_clock,🕚,eleven o’clock,十一点钟
+4,eleven_thirty,🕦,eleven-thirty,十一点半
+4,new_moon,🌑,new moon,新月
+4,waxing_crescent_moon,🌒,waxing crescent moon,新月
+4,first_quarter_moon,🌓,first quarter moon,上弦月
+4,waxing_gibbous_moon,🌔,waxing gibbous moon,腊月
+4,full_moon,🌕,full moon,满月
+4,waning_gibbous_moon,🌖,waning gibbous moon,残月
+4,last_quarter_moon,🌗,last quarter moon,上弦月
+4,waning_crescent_moon,🌘,waning crescent moon,残月
+4,crescent_moon,🌙,crescent moon,新月
+4,new_moon_face,🌚,new moon face,新月脸
+4,first_quarter_moon_face,🌛,first quarter moon face,上弦月面
+4,last_quarter_moon_face,🌜,last quarter moon face,上弦月面
+4,thermometer,🌡️,thermometer,温度计
+4,sun,☀️,sun,太阳
+4,full_moon_face,🌝,full moon face,满月脸
+4,sun_with_face,🌞,sun with face,有脸的太阳
+4,ringed_planet,🪐,ringed planet,环状行星
+4,star,⭐,star,星星
+4,glowing_star,🌟,glowing star,发光的星星
+4,shooting_star,🌠,shooting star,流星
+4,milky_way,🌌,milky way,银河
+4,cloud,☁️,cloud,云
+4,sun_behind_cloud,⛅,sun behind cloud,云后的太阳
+4,cloud_with_lightning_and_rain,⛈️,cloud with lightning and rain,雷雨交加的云
+4,sun_behind_small_cloud,🌤️,sun behind small cloud,小云后的太阳
+4,sun_behind_large_cloud,🌥️,sun behind large cloud,大云后的太阳
+4,sun_behind_rain_cloud,🌦️,sun behind rain cloud,雨云后的太阳
+4,cloud_with_rain,🌧️,cloud with rain,有雨的云
+4,cloud_with_snow,🌨️,cloud with snow,有雪的云
+4,cloud_with_lightning,🌩️,cloud with lightning,闪电云
+4,tornado,🌪️,tornado,龙卷风
+4,fog,🌫️,fog,雾
+4,wind_face,🌬️,wind face,风脸
+4,cyclone,🌀,cyclone,旋风
+4,rainbow,🌈,rainbow,彩虹
+4,closed_umbrella,🌂,closed umbrella,闭伞
+4,umbrella,☂️,umbrella,雨伞
+4,umbrella_with_rain_drops,☔,umbrella with rain drops,雨滴伞
+4,umbrella_on_ground,⛱️,umbrella on ground,地上的伞
+4,high_voltage,⚡,high voltage,高压电
+4,snowflake,❄️,snowflake,雪花
+4,snowman,☃️,snowman,雪人
+4,snowman_without_snow,⛄,snowman without snow,无雪的雪人
+4,comet,☄️,comet,彗星
+4,fire,🔥,fire,火
+4,droplet,💧,droplet,水滴
+4,water_wave,🌊,water wave,水波
+5,activities,,Activities,活动
+5,jack_o_lantern,🎃,jack-o-lantern,千层灯
+5,christmas_tree,🎄,Christmas tree,圣诞树
+5,fireworks,🎆,fireworks,烟花
+5,sparkler,🎇,sparkler,烟火
+5,firecracker,🧨,firecracker,爆竹
+5,sparkles,✨,sparkles,火花
+5,balloon,🎈,balloon,气球
+5,party_popper,🎉,party popper,派对爆竹
+5,confetti_ball,🎊,confetti ball,彩纸球
+5,tanabata_tree,🎋,tanabata tree,七夕树
+5,pine_decoration,🎍,pine decoration,松树装饰
+5,japanese_dolls,🎎,Japanese dolls,日本玩偶
+5,carp_streamer,🎏,carp streamer,鲤鱼旗
+5,wind_chime,🎐,wind chime,风铃
+5,moon_viewing_ceremony,🎑,moon viewing ceremony,赏月仪式
+5,red_envelope,🧧,red envelope,红包
+5,ribbon,🎀,ribbon,丝带
+5,wrapped_gift,🎁,wrapped gift,包装礼物
+5,reminder_ribbon,🎗️,reminder ribbon,提示带
+5,admission_tickets,🎟️,admission tickets,入场券
+5,ticket,🎫,ticket,门票
+5,military_medal,🎖️,military medal,军功章
+5,trophy,🏆,trophy,奖杯
+5,sports_medal,🏅,sports medal,运动奖牌
+5,1st_place_medal,🥇,1st place medal,第一名奖牌
+5,2nd_place_medal,🥈,2nd place medal,第 2 名奖牌
+5,3rd_place_medal,🥉,3rd place medal,第 3 名奖牌
+5,soccer_ball,⚽,soccer ball,足球
+5,baseball,⚾,baseball,棒球
+5,softball,🥎,softball,垒球
+5,basketball,🏀,basketball,篮球
+5,volleyball,🏐,volleyball,排球
+5,american_football,🏈,american football,美式橄榄球
+5,rugby_football,🏉,rugby football,橄榄球
+5,tennis,🎾,tennis,网球
+5,flying_disc,🥏,flying disc,飞碟
+5,bowling,🎳,bowling,保龄球
+5,cricket_game,🏏,cricket game,板球比赛
+5,field_hockey,🏑,field hockey,曲棍球
+5,ice_hockey,🏒,ice hockey,冰上曲棍球
+5,lacrosse,🥍,lacrosse,长曲棍球
+5,ping_pong,🏓,ping pong,乒乓球
+5,badminton,🏸,badminton,羽毛球
+5,boxing_glove,🥊,boxing glove,拳击手套
+5,martial_arts_uniform,🥋,martial arts uniform,武术服
+5,goal_net,🥅,goal net,球门网
+5,flag_in_hole,⛳,flag in hole,洞中旗
+5,ice_skate,⛸️,ice skate,冰刀
+5,fishing_pole,🎣,fishing pole,鱼竿
+5,diving_mask,🤿,diving mask,潜水面罩
+5,running_shirt,🎽,running shirt,跑步衫
+5,skis,🎿,skis,滑雪板
+5,sled,🛷,sled,雪橇
+5,curling_stone,🥌,curling stone,冰壶石
+5,bullseye,🎯,bullseye,牛眼
+5,yo_yo,🪀,yo-yo,溜溜球
+5,kite,🪁,kite,风筝
+5,water_pistol,🔫,water pistol,水枪
+5,pool_8_ball,🎱,pool 8 ball,8 号桌球
+5,crystal_ball,🔮,crystal ball,水晶球
+5,magic_wand,🪄,magic wand,魔杖
+5,video_game,🎮,video game,电子游戏
+5,joystick,🕹️,joystick,操纵杆
+5,slot_machine,🎰,slot machine,老虎机
+5,game_die,🎲,game die,游戏模具
+5,puzzle_piece,🧩,puzzle piece,拼图
+5,teddy_bear,🧸,teddy bear,玩具熊
+5,pinata,🪅,piñata,皮纳塔
+5,mirror_ball,🪩,mirror ball,镜子球
+5,nesting_dolls,🪆,nesting dolls,嵌套娃娃
+5,spade_suit,♠️,spade suit,黑桃套牌
+5,heart_suit,♥️,heart suit,红心
+5,diamond_suit,♦️,diamond suit,方块
+5,club_suit,♣️,club suit,梅花套牌
+5,chess_pawn,♟️,chess pawn,棋子
+5,joker,🃏,joker,小丑
+5,mahjong_red_dragon,🀄,mahjong red dragon,麻将红龙
+5,flower_playing_cards,🎴,flower playing cards,花牌
+5,performing_arts,🎭,performing arts,表演艺术
+5,framed_picture,🖼️,framed picture,裱画
+5,artist_palette,🎨,artist palette,艺术家调色板
+5,thread,🧵,thread,线
+5,sewing_needle,🪡,sewing needle,缝衣针
+5,yarn,🧶,yarn,纱线
+5,knot,🪢,knot,绳结
+6,objects,,Objects,物品
+6,glasses,👓,glasses,眼镜
+6,sunglasses,🕶️,sunglasses,太阳镜
+6,goggles,🥽,goggles,护目镜
+6,lab_coat,🥼,lab coat,白大褂
+6,safety_vest,🦺,safety vest,安全背心
+6,necktie,👔,necktie,领带
+6,t_shirt,👕,t-shirt,T 恤
+6,jeans,👖,jeans,牛仔裤
+6,scarf,🧣,scarf,围巾
+6,gloves,🧤,gloves,手套
+6,coat,🧥,coat,大衣
+6,socks,🧦,socks,袜子
+6,dress,👗,dress,连衣裙
+6,kimono,👘,kimono,和服
+6,sari,🥻,sari,纱丽
+6,one_piece_swimsuit,🩱,one-piece swimsuit,连体泳衣
+6,briefs,🩲,briefs,内裤
+6,shorts,🩳,shorts,短裤
+6,bikini,👙,bikini,比基尼
+6,woman_s_clothes,👚,woman’s clothes,女装
+6,folding_hand_fan,🪭,folding hand fan,折扇
+6,purse,👛,purse,钱包
+6,handbag,👜,handbag,手提包
+6,clutch_bag,👝,clutch bag,手拿包
+6,shopping_bags,🛍️,shopping bags,购物袋
+6,backpack,🎒,backpack,背包
+6,thong_sandal,🩴,thong sandal,丁字凉鞋
+6,man_s_shoe,👞,man’s shoe,男鞋
+6,running_shoe,👟,running shoe,跑鞋
+6,hiking_boot,🥾,hiking boot,远足靴
+6,flat_shoe,🥿,flat shoe,平底鞋
+6,high_heeled_shoe,👠,high-heeled shoe,高跟鞋
+6,woman_s_sandal,👡,woman’s sandal,女凉鞋
+6,ballet_shoes,🩰,ballet shoes,芭蕾舞鞋
+6,woman_s_boot,👢,woman’s boot,女靴
+6,hair_pick,🪮,hair pick,发卡
+6,crown,👑,crown,皇冠
+6,woman_s_hat,👒,woman’s hat,女帽
+6,top_hat,🎩,top hat,礼帽
+6,graduation_cap,🎓,graduation cap,毕业帽
+6,billed_cap,🧢,billed cap,礼帽
+6,military_helmet,🪖,military helmet,军用头盔
+6,rescue_worker_s_helmet,⛑️,rescue worker’s helmet,救援人员头盔
+6,prayer_beads,📿,prayer beads,念珠
+6,lipstick,💄,lipstick,唇膏
+6,ring,💍,ring,戒指
+6,gem_stone,💎,gem stone,宝石
+6,muted_speaker,🔇,muted speaker,静音扬声器
+6,speaker_low_volume,🔈,speaker low volume,低音量扬声器
+6,speaker_medium_volume,🔉,speaker medium volume,扬声器中等音量
+6,speaker_high_volume,🔊,speaker high volume,扬声器大音量
+6,loudspeaker,📢,loudspeaker,扬声器
+6,megaphone,📣,megaphone,扩音器
+6,postal_horn,📯,postal horn,邮政喇叭
+6,bell,🔔,bell,电铃
+6,bell_with_slash,🔕,bell with slash,斜线钟
+6,musical_score,🎼,musical score,乐谱
+6,musical_note,🎵,musical note,音符
+6,musical_notes,🎶,musical notes,音符
+6,studio_microphone,🎙️,studio microphone,录音室麦克风
+6,level_slider,🎚️,level slider,电平滑块
+6,control_knobs,🎛️,control knobs,控制旋钮
+6,microphone,🎤,microphone,麦克风
+6,headphone,🎧,headphone,耳机
+6,radio,📻,radio,收音机
+6,saxophone,🎷,saxophone,萨克斯风
+6,accordion,🪗,accordion,手风琴
+6,guitar,🎸,guitar,吉他
+6,musical_keyboard,🎹,musical keyboard,音乐键盘
+6,trumpet,🎺,trumpet,小号
+6,violin,🎻,violin,小提琴
+6,banjo,🪕,banjo,班卓琴
+6,drum,🥁,drum,鼓
+6,long_drum,🪘,long drum,长鼓
+6,maracas,🪇,maracas,马卡琴
+6,flute,🪈,flute,长笛
+6,harp,🪉,harp,竖琴
+6,mobile_phone,📱,mobile phone,手机
+6,mobile_phone_with_arrow,📲,mobile phone with arrow,带箭头的手机
+6,telephone,☎️,telephone,电话
+6,telephone_receiver,📞,telephone receiver,电话接收器
+6,pager,📟,pager,传呼机
+6,fax_machine,📠,fax machine,传真机
+6,battery,🔋,battery,电池
+6,low_battery,🪫,low battery,低电量
+6,electric_plug,🔌,electric plug,电插头
+6,laptop,💻,laptop,笔记本电脑
+6,desktop_computer,🖥️,desktop computer,台式电脑
+6,printer,🖨️,printer,打印机
+6,keyboard,⌨️,keyboard,键盘
+6,computer_mouse,🖱️,computer mouse,电脑鼠标
+6,trackball,🖲️,trackball,轨迹球
+6,computer_disk,💽,computer disk,电脑磁盘
+6,floppy_disk,💾,floppy disk,软盘
+6,optical_disk,💿,optical disk,光盘
+6,dvd,📀,dvd,DVD
+6,abacus,🧮,abacus,算盘
+6,movie_camera,🎥,movie camera,电影摄影机
+6,film_frames,🎞️,film frames,胶片架
+6,film_projector,📽️,film projector,电影放映机
+6,clapper_board,🎬,clapper board,拍板
+6,television,📺,television,电视机
+6,camera,📷,camera,照相机
+6,camera_with_flash,📸,camera with flash,带闪光灯的摄像机
+6,video_camera,📹,video camera,摄像机
+6,videocassette,📼,videocassette,录像带
+6,magnifying_glass_tilted_left,🔍,magnifying glass tilted left,左倾放大镜
+6,magnifying_glass_tilted_right,🔎,magnifying glass tilted right,右倾斜放大镜
+6,candle,🕯️,candle,蜡烛
+6,light_bulb,💡,light bulb,灯泡
+6,flashlight,🔦,flashlight,手电筒
+6,red_paper_lantern,🏮,red paper lantern,红纸灯笼
+6,diya_lamp,🪔,diya lamp,迪亚灯
+6,notebook_with_decorative_cover,📔,notebook with decorative cover,带装饰封面的笔记本
+6,closed_book,📕,closed book,闭合本
+6,open_book,📖,open book,开本
+6,green_book,📗,green book,绿色本
+6,blue_book,📘,blue book,蓝色本
+6,orange_book,📙,orange book,橙色本
+6,books,📚,books,书籍
+6,notebook,📓,notebook,笔记本
+6,ledger,📒,ledger,账本
+6,page_with_curl,📃,page with curl,卷页
+6,scroll,📜,scroll,卷轴
+6,page_facing_up,📄,page facing up,页面朝上
+6,newspaper,📰,newspaper,报纸
+6,rolled_up_newspaper,🗞️,rolled-up newspaper,卷起的报纸
+6,bookmark_tabs,📑,bookmark tabs,书签标签
+6,bookmark,🔖,bookmark,书签
+6,label,🏷️,label,标签
+6,money_bag,💰,money bag,钱袋
+6,coin,🪙,coin,硬币
+6,yen_banknote,💴,yen banknote,日元纸币
+6,dollar_banknote,💵,dollar banknote,美元纸币
+6,euro_banknote,💶,euro banknote,欧元纸币
+6,pound_banknote,💷,pound banknote,英镑纸币
+6,money_with_wings,💸,money with wings,带翅膀的钱
+6,credit_card,💳,credit card,信用卡
+6,receipt,🧾,receipt,收据
+6,chart_increasing_with_yen,💹,chart increasing with yen,用日元增加的图表
+6,envelope,✉️,envelope,信封
+6,e_mail,📧,e-mail,电子邮件
+6,incoming_envelope,📨,incoming envelope,来信信封
+6,envelope_with_arrow,📩,envelope with arrow,带箭头的信封
+6,outbox_tray,📤,outbox tray,发件箱托盘
+6,inbox_tray,📥,inbox tray,收件箱托盘
+6,package,📦,package,包装
+6,closed_mailbox_with_raised_flag,📫,closed mailbox with raised flag,带升旗的封闭式信箱
+6,closed_mailbox_with_lowered_flag,📪,closed mailbox with lowered flag,带降旗的封闭式邮箱
+6,open_mailbox_with_raised_flag,📬,open mailbox with raised flag,带升旗的开放式邮箱
+6,open_mailbox_with_lowered_flag,📭,open mailbox with lowered flag,带降旗的开放式邮箱
+6,postbox,📮,postbox,邮筒
+6,ballot_box_with_ballot,🗳️,ballot box with ballot,带选票的投票箱
+6,pencil,✏️,pencil,铅笔
+6,black_nib,✒️,black nib,黑色笔尖
+6,fountain_pen,🖋️,fountain pen,钢笔
+6,pen,🖊️,pen,钢笔
+6,paintbrush,🖌️,paintbrush,画笔
+6,crayon,🖍️,crayon,蜡笔
+6,memo,📝,memo,便签
+6,briefcase,💼,briefcase,公文包
+6,file_folder,📁,file folder,文件夹
+6,open_file_folder,📂,open file folder,开放式文件夹
+6,card_index_dividers,🗂️,card index dividers,卡片索引隔板
+6,calendar,📅,calendar,日历
+6,tear_off_calendar,📆,tear-off calendar,撕页日历
+6,spiral_notepad,🗒️,spiral notepad,螺旋记事本
+6,spiral_calendar,🗓️,spiral calendar,螺旋日历
+6,card_index,📇,card index,卡片索引
+6,chart_increasing,📈,chart increasing,图表增加
+6,chart_decreasing,📉,chart decreasing,递减图表
+6,bar_chart,📊,bar chart,条形图
+6,clipboard,📋,clipboard,剪贴板
+6,pushpin,📌,pushpin,图钉
+6,round_pushpin,📍,round pushpin,圆图钉
+6,paperclip,📎,paperclip,回形针
+6,linked_paperclips,🖇️,linked paperclips,回形针
+6,straight_ruler,📏,straight ruler,直尺
+6,triangular_ruler,📐,triangular ruler,三角尺
+6,scissors,✂️,scissors,剪刀
+6,card_file_box,🗃️,card file box,卡片档案盒
+6,file_cabinet,🗄️,file cabinet,文件柜
+6,wastebasket,🗑️,wastebasket,废纸篓
+6,locked,🔒,locked,上锁
+6,unlocked,🔓,unlocked,未上锁
+6,locked_with_pen,🔏,locked with pen,用笔上锁
+6,locked_with_key,🔐,locked with key,用钥匙锁定
+6,key,🔑,key,钥匙
+6,old_key,🗝️,old key,旧钥匙
+6,hammer,🔨,hammer,锤子
+6,axe,🪓,axe,斧头
+6,pick,⛏️,pick,镐
+6,hammer_and_pick,⚒️,hammer and pick,锤子和镐
+6,hammer_and_wrench,🛠️,hammer and wrench,锤子和扳手
+6,dagger,🗡️,dagger,匕首
+6,crossed_swords,⚔️,crossed swords,十字剑
+6,bomb,💣,bomb,炸弹
+6,boomerang,🪃,boomerang,回旋镖
+6,bow_and_arrow,🏹,bow and arrow,弓箭
+6,shield,🛡️,shield,盾牌
+6,carpentry_saw,🪚,carpentry saw,木工锯
+6,wrench,🔧,wrench,扳手
+6,screwdriver,🪛,screwdriver,螺丝刀
+6,nut_and_bolt,🔩,nut and bolt,螺母和螺栓
+6,gear,⚙️,gear,齿轮
+6,clamp,🗜️,clamp,夹钳
+6,balance_scale,⚖️,balance scale,天平秤
+6,white_cane,🦯,white cane,白手杖
+6,link,🔗,link,链接
+6,broken_chain,⛓️‍💥,broken chain,断链
+6,chains,⛓️,chains,链条
+6,hook,🪝,hook,钩子
+6,toolbox,🧰,toolbox,工具箱
+6,magnet,🧲,magnet,磁铁
+6,ladder,🪜,ladder,梯子
+6,shovel,🪏,shovel,铁锹
+6,alembic,⚗️,alembic,酒瓶
+6,test_tube,🧪,test tube,试管
+6,petri_dish,🧫,petri dish,培养皿
+6,dna,🧬,dna,DNA
+6,microscope,🔬,microscope,显微镜
+6,telescope,🔭,telescope,望远镜
+6,satellite_antenna,📡,satellite antenna,卫星天线
+6,syringe,💉,syringe,注射器
+6,drop_of_blood,🩸,drop of blood,血滴
+6,pill,💊,pill,药片
+6,adhesive_bandage,🩹,adhesive bandage,绷带
+6,crutch,🩼,crutch,拐杖
+6,stethoscope,🩺,stethoscope,听诊器
+6,x_ray,🩻,x-ray,X 光
+6,door,🚪,door,门
+6,elevator,🛗,elevator,电梯
+6,mirror,🪞,mirror,镜子
+6,window,🪟,window,窗户
+6,bed,🛏️,bed,床
+6,couch_and_lamp,🛋️,couch and lamp,沙发和台灯
+6,chair,🪑,chair,椅子
+6,toilet,🚽,toilet,马桶
+6,plunger,🪠,plunger,活塞
+6,shower,🚿,shower,淋浴
+6,bathtub,🛁,bathtub,浴缸
+6,mouse_trap,🪤,mouse trap,老鼠夹
+6,razor,🪒,razor,剃须刀
+6,lotion_bottle,🧴,lotion bottle,乳液瓶
+6,safety_pin,🧷,safety pin,安全别针
+6,broom,🧹,broom,扫帚
+6,basket,🧺,basket,篮子
+6,roll_of_paper,🧻,roll of paper,卷纸
+6,bucket,🪣,bucket,水桶
+6,soap,🧼,soap,肥皂
+6,bubbles,🫧,bubbles,泡泡
+6,toothbrush,🪥,toothbrush,牙刷
+6,sponge,🧽,sponge,海绵
+6,fire_extinguisher,🧯,fire extinguisher,灭火器
+6,shopping_cart,🛒,shopping cart,购物车
+6,cigarette,🚬,cigarette,香烟
+6,coffin,⚰️,coffin,棺材
+6,headstone,🪦,headstone,墓碑
+6,funeral_urn,⚱️,funeral urn,骨灰盒
+6,nazar_amulet,🧿,nazar amulet,纳扎尔护身符
+6,hamsa,🪬,hamsa,哈姆萨
+6,moai,🗿,moai,摩艾
+6,placard,🪧,placard,标牌
+6,identification_card,🪪,identification card,身份证
+7,symbols,,Symbols,标志
+7,atm_sign,🏧,ATM sign,ATM 标志
+7,litter_in_bin_sign,🚮,litter in bin sign,垃圾桶标志
+7,potable_water,🚰,potable water,饮用水
+7,wheelchair_symbol,♿,wheelchair symbol,轮椅标志
+7,men_s_room,🚹,men’s room,男厕所
+7,women_s_room,🚺,women’s room,女厕所
+7,restroom,🚻,restroom,洗手间
+7,baby_symbol,🚼,baby symbol,婴儿标志
+7,water_closet,🚾,water closet,洗手间
+7,passport_control,🛂,passport control,护照检查
+7,customs,🛃,customs,海关
+7,baggage_claim,🛄,baggage claim,行李提取处
+7,left_luggage,🛅,left luggage,遗留行李
+7,warning,⚠️,warning,警告
+7,children_crossing,🚸,children crossing,儿童过境
+7,no_entry,⛔,no entry,禁止入境
+7,prohibited,🚫,prohibited,禁止入内
+7,no_bicycles,🚳,no bicycles,禁止自行车
+7,no_smoking,🚭,no smoking,禁止吸烟
+7,no_littering,🚯,no littering,禁止乱扔垃圾
+7,non_potable_water,🚱,non-potable water,禁止饮用水
+7,no_pedestrians,🚷,no pedestrians,禁止行人
+7,no_mobile_phones,📵,no mobile phones,禁止使用手机
+7,no_one_under_eighteen,🔞,no one under eighteen,十八岁以下人员禁止入内
+7,radioactive,☢️,radioactive,放射性物质
+7,biohazard,☣️,biohazard,生物危险
+7,up_arrow,⬆️,up arrow,向上箭头
+7,up_right_arrow,↗️,up-right arrow,上-右箭头
+7,right_arrow,➡️,right arrow,右箭头
+7,down_right_arrow,↘️,down-right arrow,向下-右箭头
+7,down_arrow,⬇️,down arrow,向下箭头
+7,down_left_arrow,↙️,down-left arrow,左下箭头
+7,left_arrow,⬅️,left arrow,左箭头
+7,up_left_arrow,↖️,up-left arrow,上左箭头
+7,up_down_arrow,↕️,up-down arrow,上-下箭头
+7,left_right_arrow,↔️,left-right arrow,左右箭头
+7,right_arrow_curving_left,↩️,right arrow curving left,向左弯曲的右箭头
+7,left_arrow_curving_right,↪️,left arrow curving right,向右弯曲的左箭头
+7,right_arrow_curving_up,⤴️,right arrow curving up,右箭头向上弯曲
+7,right_arrow_curving_down,⤵️,right arrow curving down,向下弯曲的右箭头
+7,clockwise_vertical_arrows,🔃,clockwise vertical arrows,顺时针垂直箭头
+7,counterclockwise_arrows_button,🔄,counterclockwise arrows button,逆时针箭头 按钮
+7,back_arrow,🔙,BACK arrow,后退箭头
+7,end_arrow,🔚,END arrow,结束箭头
+7,on_arrow,🔛,ON! arrow,开！箭头
+7,soon_arrow,🔜,SOON arrow,很快箭头
+7,top_arrow,🔝,TOP arrow,顶部箭头
+7,place_of_worship,🛐,place of worship,礼拜场所
+7,atom_symbol,⚛️,atom symbol,原子符号
+7,om,🕉️,om,唵
+7,star_of_david,✡️,star of David,大卫之星
+7,wheel_of_dharma,☸️,wheel of dharma,法轮
+7,yin_yang,☯️,yin yang,阴阳
+7,latin_cross,✝️,latin cross,拉丁十字架
+7,orthodox_cross,☦️,orthodox cross,正十字架
+7,star_and_crescent,☪️,star and crescent,星辰和新月
+7,peace_symbol,☮️,peace symbol,和平符号
+7,menorah,🕎,menorah,月光宝盒
+7,dotted_six_pointed_star,🔯,dotted six-pointed star,圆点六芒星
+7,khanda,🪯,khanda,坎达
+7,aries,♈,Aries,白羊座
+7,taurus,♉,Taurus,金牛座
+7,gemini,♊,Gemini,双子座
+7,cancer,♋,Cancer,巨蟹座
+7,leo,♌,Leo,狮子座
+7,virgo,♍,Virgo,处女座
+7,libra,♎,Libra,天秤座
+7,scorpio,♏,Scorpio,天蝎座
+7,sagittarius,♐,Sagittarius,射手座
+7,capricorn,♑,Capricorn,摩羯座
+7,aquarius,♒,Aquarius,水瓶座
+7,pisces,♓,Pisces,双鱼座
+7,ophiuchus,⛎,Ophiuchus,蛇夫座
+7,shuffle_tracks_button,🔀,shuffle tracks button,洗曲按钮
+7,repeat_button,🔁,repeat button,重复按钮
+7,repeat_single_button,🔂,repeat single button,单曲重复按钮
+7,play_button,▶️,play button,播放按钮
+7,fast_forward_button,⏩,fast-forward button,快进按钮
+7,next_track_button,⏭️,next track button,下一曲按钮
+7,play_or_pause_button,⏯️,play or pause button,播放或暂停按钮
+7,reverse_button,◀️,reverse button,倒车按钮
+7,fast_reverse_button,⏪,fast reverse button,快速倒车按钮
+7,last_track_button,⏮️,last track button,最后曲目按钮
+7,upwards_button,🔼,upwards button,向上按钮
+7,fast_up_button,⏫,fast up button,快速向上按钮
+7,downwards_button,🔽,downwards button,下行按钮
+7,fast_down_button,⏬,fast down button,快下按钮
+7,pause_button,⏸️,pause button,暂停按钮
+7,stop_button,⏹️,stop button,停止按钮
+7,record_button,⏺️,record button,录制按钮
+7,eject_button,⏏️,eject button,弹出按钮
+7,cinema,🎦,cinema,影院
+7,dim_button,🔅,dim button,变暗按钮
+7,bright_button,🔆,bright button,明亮按钮
+7,antenna_bars,📶,antenna bars,天线条
+7,wireless,🛜,wireless,无线
+7,vibration_mode,📳,vibration mode,振动模式
+7,mobile_phone_off,📴,mobile phone off,手机关闭
+7,female_sign,♀️,female sign,女性标志
+7,male_sign,♂️,male sign,男性标志
+7,transgender_symbol,⚧️,transgender symbol,变性符号
+7,multiply,✖️,multiply,乘法
+7,plus,➕,plus,加号
+7,minus,➖,minus,减
+7,divide,➗,divide,除号
+7,heavy_equals_sign,🟰,heavy equals sign,重等号
+7,infinity,♾️,infinity,无穷大
+7,double_exclamation_mark,‼️,double exclamation mark,双叹号
+7,exclamation_question_mark,⁉️,exclamation question mark,感叹问号
+7,red_question_mark,❓,red question mark,红色问号
+7,white_question_mark,❔,white question mark,白色问号
+7,white_exclamation_mark,❕,white exclamation mark,白色感叹号
+7,red_exclamation_mark,❗,red exclamation mark,红色感叹号
+7,wavy_dash,〰️,wavy dash,波浪破折号
+7,currency_exchange,💱,currency exchange,货币兑换
+7,heavy_dollar_sign,💲,heavy dollar sign,重美元符号
+7,medical_symbol,⚕️,medical symbol,医疗符号
+7,recycling_symbol,♻️,recycling symbol,回收标志
+7,fleur_de_lis,⚜️,fleur-de-lis,百合花
+7,trident_emblem,🔱,trident emblem,三叉戟标志
+7,name_badge,📛,name badge,名牌
+7,japanese_symbol_for_beginner,🔰,Japanese symbol for beginner,日本初学者符号
+7,hollow_red_circle,⭕,hollow red circle,空心红圈
+7,check_mark_button,✅,check mark button,复选标记按钮
+7,check_box_with_check,☑️,check box with check,复选框
+7,check_mark,✔️,check mark,复选标记
+7,cross_mark,❌,cross mark,十字标记
+7,cross_mark_button,❎,cross mark button,十字标记按钮
+7,curly_loop,➰,curly loop,卷曲循环
+7,double_curly_loop,➿,double curly loop,双曲循环
+7,part_alternation_mark,〽️,part alternation mark,部分交替标记
+7,eight_spoked_asterisk,✳️,eight-spoked asterisk,八辐星号
+7,eight_pointed_star,✴️,eight-pointed star,八角星
+7,sparkle,❇️,sparkle,闪光
+7,copyright,©️,copyright,版权
+7,registered,®️,registered,注册
+7,trade_mark,™️,trade mark,商标
+7,splatter,🫟,splatter,飞溅
+7,keycap_number_sign,#️⃣,keycap #,键帽 #
+7,keycap_asterisk,*️⃣,keycap *,键帽 *
+7,keycap_0,0️⃣,keycap 0,键帽 0
+7,keycap_1,1️⃣,keycap 1,键帽 1
+7,keycap_2,2️⃣,keycap 2,键帽 2
+7,keycap_3,3️⃣,keycap 3,键帽 3
+7,keycap_4,4️⃣,keycap 4,键帽 4
+7,keycap_5,5️⃣,keycap 5,键帽 5
+7,keycap_6,6️⃣,keycap 6,键帽 6
+7,keycap_7,7️⃣,keycap 7,键帽 7
+7,keycap_8,8️⃣,keycap 8,键帽 8
+7,keycap_9,9️⃣,keycap 9,键帽 9
+7,keycap_10,🔟,keycap 10,键帽 10
+7,input_latin_uppercase,🔠,input latin uppercase,输入拉丁文大写字母
+7,input_latin_lowercase,🔡,input latin lowercase,输入拉丁文小写字母
+7,input_numbers,🔢,input numbers,输入数字
+7,input_symbols,🔣,input symbols,输入符号
+7,input_latin_letters,🔤,input latin letters,输入拉丁字母
+7,a_button,🅰️,A button (blood type),A 按钮（血型）
+7,ab_button,🆎,AB button (blood type),AB 按钮（血型）
+7,b_button,🅱️,B button (blood type),B 按钮（血型）
+7,cl_button,🆑,CL button,CL 按钮
+7,cool_button,🆒,COOL button,COOL 按钮
+7,free_button,🆓,FREE button,免费按钮
+7,information,ℹ️,information,信息
+7,id_button,🆔,ID button,ID 按钮
+7,circled_m,Ⓜ️,circled M,带圈 M
+7,new_button,🆕,NEW button,新按钮
+7,ng_button,🆖,NG button,NG 按钮
+7,o_button,🅾️,O button (blood type),O 按钮（血型）
+7,ok_button,🆗,OK button,OK 按钮
+7,p_button,🅿️,P button,P 按钮
+7,sos_button,🆘,SOS button,SOS 按钮
+7,up_button,🆙,UP! button,UP!
+7,vs_button,🆚,VS button,VS 按钮
+7,japanese_here_button,🈁,Japanese “here” button,日语 “此处 ”按钮
+7,japanese_service_charge_button,🈂️,Japanese “service charge” button,日语 “服务费 ”按钮
+7,japanese_monthly_amount_button,🈷️,Japanese “monthly amount” button,月
+7,japanese_not_free_of_charge_button,🈶,Japanese “not free of charge” button,有
+7,japanese_reserved_button,🈯,Japanese “reserved” button,指
+7,japanese_bargain_button,🉐,Japanese “bargain” button,得
+7,japanese_discount_button,🈹,Japanese “discount” button,割
+7,japanese_free_of_charge_button,🈚,Japanese “free of charge” button,无
+7,japanese_prohibited_button,🈲,Japanese “prohibited” button,禁
+7,japanese_acceptable_button,🉑,Japanese “acceptable” button,可
+7,japanese_application_button,🈸,Japanese “application” button,申
+7,japanese_passing_grade_button,🈴,Japanese “passing grade” button,合
+7,japanese_vacancy_button,🈳,Japanese “vacancy” button,空
+7,japanese_congratulations_button,㊗️,Japanese “congratulations” button,祝
+7,japanese_secret_button,㊙️,Japanese “secret” button,秘
+7,japanese_open_for_business_button,🈺,Japanese “open for business” button,日语 “开门营业 ”按钮
+7,japanese_no_vacancy_button,🈵,Japanese “no vacancy” button,满
+7,red_circle,🔴,red circle,红色圆圈
+7,orange_circle,🟠,orange circle,橙色圆圈
+7,yellow_circle,🟡,yellow circle,黄色圆圈
+7,green_circle,🟢,green circle,绿色圆圈
+7,blue_circle,🔵,blue circle,蓝色圆圈
+7,purple_circle,🟣,purple circle,紫色圆
+7,brown_circle,🟤,brown circle,棕色圆
+7,black_circle,⚫,black circle,黑色圆圈
+7,white_circle,⚪,white circle,白色圆圈
+7,red_square,🟥,red square,红色正方形
+7,orange_square,🟧,orange square,橙色正方形
+7,yellow_square,🟨,yellow square,黄色正方形
+7,green_square,🟩,green square,绿色正方形
+7,blue_square,🟦,blue square,蓝色正方形
+7,purple_square,🟪,purple square,紫色方块
+7,brown_square,🟫,brown square,棕色正方形
+7,black_large_square,⬛,black large square,黑色大正方形
+7,white_large_square,⬜,white large square,白色大正方形
+7,black_medium_square,◼️,black medium square,黑色中正方形
+7,white_medium_square,◻️,white medium square,白色中型正方形
+7,black_medium_small_square,◾,black medium-small square,黑色中小方块
+7,white_medium_small_square,◽,white medium-small square,白色中小方块
+7,black_small_square,▪️,black small square,黑色小正方形
+7,white_small_square,▫️,white small square,白色小正方形
+7,large_orange_diamond,🔶,large orange diamond,橙色大菱形
+7,large_blue_diamond,🔷,large blue diamond,大蓝钻
+7,small_orange_diamond,🔸,small orange diamond,小橙色钻石
+7,small_blue_diamond,🔹,small blue diamond,小蓝钻
+7,red_triangle_pointed_up,🔺,red triangle pointed up,红色三角形朝上
+7,red_triangle_pointed_down,🔻,red triangle pointed down,红色三角形朝下
+7,diamond_with_a_dot,💠,diamond with a dot,带点的钻石
+7,radio_button,🔘,radio button,单选按钮
+7,white_square_button,🔳,white square button,白色方形按钮
+7,black_square_button,🔲,black square button,黑色方形按钮
+8,flags,,Flags,旗帜
+8,chequered_flag,🏁,chequered flag,方格旗
+8,triangular_flag,🚩,triangular flag,三角旗
+8,crossed_flags,🎌,crossed flags,十字旗
+8,black_flag,🏴,black flag,黑旗
+8,white_flag,🏳️,white flag,白旗
+8,rainbow_flag,🏳️‍🌈,rainbow flag,彩虹旗
+8,transgender_flag,🏳️‍⚧️,transgender flag,变性旗
+8,pirate_flag,🏴‍☠️,pirate flag,海盗旗
+8,flag_ascension_island,🇦🇨,flag Ascension Island,阿森松岛旗
+8,flag_andorra,🇦🇩,flag Andorra,安道尔国旗
+8,flag_united_arab_emirates,🇦🇪,flag United Arab Emirates,阿拉伯联合酋长国国旗
+8,flag_afghanistan,🇦🇫,flag Afghanistan,阿富汗国旗
+8,flag_antigua_barbuda,🇦🇬,flag Antigua & Barbuda,安提瓜和巴布达国旗
+8,flag_anguilla,🇦🇮,flag Anguilla,安圭拉国旗
+8,flag_albania,🇦🇱,flag Albania,阿尔巴尼亚国旗
+8,flag_armenia,🇦🇲,flag Armenia,亚美尼亚国旗
+8,flag_angola,🇦🇴,flag Angola,安哥拉国旗
+8,flag_antarctica,🇦🇶,flag Antarctica,南极洲国旗
+8,flag_argentina,🇦🇷,flag Argentina,阿根廷国旗
+8,flag_american_samoa,🇦🇸,flag American Samoa,美属萨摩亚国旗
+8,flag_austria,🇦🇹,flag Austria,奥地利国旗
+8,flag_australia,🇦🇺,flag Australia,澳大利亚国旗
+8,flag_aruba,🇦🇼,flag Aruba,阿鲁巴
+8,flag_aland_islands,🇦🇽,flag Åland Islands,奥兰群岛国旗
+8,flag_azerbaijan,🇦🇿,flag Azerbaijan,阿塞拜疆国旗
+8,flag_bosnia_herzegovina,🇧🇦,flag Bosnia & Herzegovina,波斯尼亚和黑塞哥维那国旗
+8,flag_barbados,🇧🇧,flag Barbados,巴巴多斯国旗
+8,flag_bangladesh,🇧🇩,flag Bangladesh,孟加拉国国旗
+8,flag_belgium,🇧🇪,flag Belgium,比利时国旗
+8,flag_burkina_faso,🇧🇫,flag Burkina Faso,布基纳法索国旗
+8,flag_bulgaria,🇧🇬,flag Bulgaria,保加利亚国旗
+8,flag_bahrain,🇧🇭,flag Bahrain,巴林国旗
+8,flag_burundi,🇧🇮,flag Burundi,布隆迪国旗
+8,flag_benin,🇧🇯,flag Benin,贝宁国旗
+8,flag_st_barthelemy,🇧🇱,flag St. Barthélemy,圣巴泰勒米
+8,flag_bermuda,🇧🇲,flag Bermuda,百慕大国旗
+8,flag_brunei,🇧🇳,flag Brunei,文莱国旗
+8,flag_bolivia,🇧🇴,flag Bolivia,玻利维亚国旗
+8,flag_caribbean_netherlands,🇧🇶,flag Caribbean Netherlands,荷兰国旗
+8,flag_brazil,🇧🇷,flag Brazil,巴西国旗
+8,flag_bahamas,🇧🇸,flag Bahamas,巴哈马国旗
+8,flag_bhutan,🇧🇹,flag Bhutan,不丹国旗
+8,flag_bouvet_island,🇧🇻,flag Bouvet Island,国旗 布韦岛
+8,flag_botswana,🇧🇼,flag Botswana,博茨瓦纳国旗
+8,flag_belarus,🇧🇾,flag Belarus,白俄罗斯国旗
+8,flag_belize,🇧🇿,flag Belize,伯利兹国旗
+8,flag_canada,🇨🇦,flag Canada,加拿大国旗
+8,flag_cocos_islands,🇨🇨,flag Cocos (Keeling) Islands,科科斯（基林）群岛国旗
+8,flag_congo_kinshasa,🇨🇩,flag Congo - Kinshasa,刚果（金）国旗
+8,flag_central_african_republic,🇨🇫,flag Central African Republic,国旗 中非共和国
+8,flag_congo_brazzaville,🇨🇬,flag Congo - Brazzaville,刚果（布）国旗
+8,flag_switzerland,🇨🇭,flag Switzerland,瑞士国旗
+8,flag_cote_d_ivoire,🇨🇮,flag Côte d’Ivoire,科特迪瓦国旗
+8,flag_cook_islands,🇨🇰,flag Cook Islands,库克群岛国旗
+8,flag_chile,🇨🇱,flag Chile,智利国旗
+8,flag_cameroon,🇨🇲,flag Cameroon,喀麦隆国旗
+8,flag_china,🇨🇳,flag China,中国国旗
+8,flag_colombia,🇨🇴,flag Colombia,哥伦比亚国旗
+8,flag_clipperton_island,🇨🇵,flag Clipperton Island,克利珀顿岛旗帜
+8,flag_sark,🇨🇶,flag Sark,萨克岛旗帜
+8,flag_costa_rica,🇨🇷,flag Costa Rica,哥斯达黎加国旗
+8,flag_cuba,🇨🇺,flag Cuba,古巴国旗
+8,flag_cape_verde,🇨🇻,flag Cape Verde,佛得角国旗
+8,flag_curacao,🇨🇼,flag Curaçao,库拉索岛旗
+8,flag_christmas_island,🇨🇽,flag Christmas Island,圣诞岛旗
+8,flag_cyprus,🇨🇾,flag Cyprus,塞浦路斯国旗
+8,flag_czechia,🇨🇿,flag Czechia,捷克国旗
+8,flag_germany,🇩🇪,flag Germany,德国国旗
+8,flag_diego_garcia,🇩🇬,flag Diego Garcia,迪戈加西亚岛旗
+8,flag_djibouti,🇩🇯,flag Djibouti,吉布提国旗
+8,flag_denmark,🇩🇰,flag Denmark,丹麦国旗
+8,flag_dominica,🇩🇲,flag Dominica,多米尼克国旗
+8,flag_dominican_republic,🇩🇴,flag Dominican Republic,多米尼加共和国国旗
+8,flag_algeria,🇩🇿,flag Algeria,阿尔及利亚国旗
+8,flag_ceuta_melilla,🇪🇦,flag Ceuta & Melilla,休达和梅利利亚国旗
+8,flag_ecuador,🇪🇨,flag Ecuador,厄瓜多尔国旗
+8,flag_estonia,🇪🇪,flag Estonia,爱沙尼亚国旗
+8,flag_egypt,🇪🇬,flag Egypt,埃及国旗
+8,flag_western_sahara,🇪🇭,flag Western Sahara,西撒哈拉国旗
+8,flag_eritrea,🇪🇷,flag Eritrea,厄立特里亚国旗
+8,flag_spain,🇪🇸,flag Spain,西班牙国旗
+8,flag_ethiopia,🇪🇹,flag Ethiopia,埃塞俄比亚国旗
+8,flag_european_union,🇪🇺,flag European Union,欧盟国旗
+8,flag_finland,🇫🇮,flag Finland,芬兰国旗
+8,flag_fiji,🇫🇯,flag Fiji,斐济国旗
+8,flag_falkland_islands,🇫🇰,flag Falkland Islands,福克兰群岛旗
+8,flag_micronesia,🇫🇲,flag Micronesia,密克罗尼西亚国旗
+8,flag_faroe_islands,🇫🇴,flag Faroe Islands,法罗群岛国旗
+8,flag_france,🇫🇷,flag France,法国国旗
+8,flag_gabon,🇬🇦,flag Gabon,加蓬国旗
+8,flag_united_kingdom,🇬🇧,flag United Kingdom,英国国旗
+8,flag_grenada,🇬🇩,flag Grenada,格林纳达国旗
+8,flag_georgia,🇬🇪,flag Georgia,格鲁吉亚国旗
+8,flag_french_guiana,🇬🇫,flag French Guiana,法属圭亚那国旗
+8,flag_guernsey,🇬🇬,flag Guernsey,格恩西岛旗
+8,flag_ghana,🇬🇭,flag Ghana,加纳国旗
+8,flag_gibraltar,🇬🇮,flag Gibraltar,直布罗陀国旗
+8,flag_greenland,🇬🇱,flag Greenland,格陵兰国旗
+8,flag_gambia,🇬🇲,flag Gambia,冈比亚国旗
+8,flag_guinea,🇬🇳,flag Guinea,几内亚国旗
+8,flag_guadeloupe,🇬🇵,flag Guadeloupe,瓜德罗普国旗
+8,flag_equatorial_guinea,🇬🇶,flag Equatorial Guinea,赤道几内亚国旗
+8,flag_greece,🇬🇷,flag Greece,希腊国旗
+8,flag_south_georgia_south_sandwich_islands,🇬🇸,flag South Georgia & South Sandwich Islands,南乔治亚岛和南桑威奇群岛旗
+8,flag_guatemala,🇬🇹,flag Guatemala,危地马拉国旗
+8,flag_guam,🇬🇺,flag Guam,关岛国旗
+8,flag_guinea_bissau,🇬🇼,flag Guinea-Bissau,几内亚比绍国旗
+8,flag_guyana,🇬🇾,flag Guyana,圭亚那国旗
+8,flag_hong_kong_sar_china,🇭🇰,flag Hong Kong SAR China,中国香港特别行政区旗
+8,flag_heard_mcdonald_islands,🇭🇲,flag Heard & McDonald Islands,赫德和麦克唐纳群岛旗
+8,flag_honduras,🇭🇳,flag Honduras,洪都拉斯国旗
+8,flag_croatia,🇭🇷,flag Croatia,克罗地亚国旗
+8,flag_haiti,🇭🇹,flag Haiti,海地国旗
+8,flag_hungary,🇭🇺,flag Hungary,匈牙利国旗
+8,flag_canary_islands,🇮🇨,flag Canary Islands,加那利群岛旗
+8,flag_indonesia,🇮🇩,flag Indonesia,印度尼西亚国旗
+8,flag_ireland,🇮🇪,flag Ireland,爱尔兰国旗
+8,flag_israel,🇮🇱,flag Israel,以色列国旗
+8,flag_isle_of_man,🇮🇲,flag Isle of Man,马恩岛国旗
+8,flag_india,🇮🇳,flag India,印度国旗
+8,flag_british_indian_ocean_territory,🇮🇴,flag British Indian Ocean Territory,英属印度洋领地国旗
+8,flag_iraq,🇮🇶,flag Iraq,伊拉克国旗
+8,flag_iran,🇮🇷,flag Iran,伊朗国旗
+8,flag_iceland,🇮🇸,flag Iceland,冰岛国旗
+8,flag_italy,🇮🇹,flag Italy,意大利国旗
+8,flag_jersey,🇯🇪,flag Jersey,泽西岛旗
+8,flag_jamaica,🇯🇲,flag Jamaica,牙买加国旗
+8,flag_jordan,🇯🇴,flag Jordan,约旦国旗
+8,flag_japan,🇯🇵,flag Japan,日本国旗
+8,flag_kenya,🇰🇪,flag Kenya,肯尼亚国旗
+8,flag_kyrgyzstan,🇰🇬,flag Kyrgyzstan,吉尔吉斯斯坦国旗
+8,flag_cambodia,🇰🇭,flag Cambodia,柬埔寨国旗
+8,flag_kiribati,🇰🇮,flag Kiribati,基里巴斯国旗
+8,flag_comoros,🇰🇲,flag Comoros,科摩罗国旗
+8,flag_st_kitts_nevis,🇰🇳,flag St. Kitts & Nevis,圣基茨和尼维斯国旗
+8,flag_north_korea,🇰🇵,flag North Korea,朝鲜国旗
+8,flag_south_korea,🇰🇷,flag South Korea,韩国国旗
+8,flag_kuwait,🇰🇼,flag Kuwait,科威特国旗
+8,flag_cayman_islands,🇰🇾,flag Cayman Islands,国旗 开曼群岛
+8,flag_kazakhstan,🇰🇿,flag Kazakhstan,哈萨克斯坦国旗
+8,flag_laos,🇱🇦,flag Laos,老挝国旗
+8,flag_lebanon,🇱🇧,flag Lebanon,黎巴嫩国旗
+8,flag_st_lucia,🇱🇨,flag St. Lucia,圣卢西亚国旗
+8,flag_liechtenstein,🇱🇮,flag Liechtenstein,列支敦士登国旗
+8,flag_sri_lanka,🇱🇰,flag Sri Lanka,斯里兰卡国旗
+8,flag_liberia,🇱🇷,flag Liberia,利比里亚国旗
+8,flag_lesotho,🇱🇸,flag Lesotho,莱索托国旗
+8,flag_lithuania,🇱🇹,flag Lithuania,立陶宛国旗
+8,flag_luxembourg,🇱🇺,flag Luxembourg,卢森堡国旗
+8,flag_latvia,🇱🇻,flag Latvia,拉脱维亚国旗
+8,flag_libya,🇱🇾,flag Libya,利比亚国旗
+8,flag_morocco,🇲🇦,flag Morocco,摩洛哥国旗
+8,flag_monaco,🇲🇨,flag Monaco,摩纳哥国旗
+8,flag_moldova,🇲🇩,flag Moldova,摩尔多瓦国旗
+8,flag_montenegro,🇲🇪,flag Montenegro,黑山国旗
+8,flag_st_martin,🇲🇫,flag St. Martin,圣马丁国旗
+8,flag_madagascar,🇲🇬,flag Madagascar,马达加斯加国旗
+8,flag_marshall_islands,🇲🇭,flag Marshall Islands,马绍尔群岛国旗
+8,flag_north_macedonia,🇲🇰,flag North Macedonia,北马其顿国旗
+8,flag_mali,🇲🇱,flag Mali,马里国旗
+8,flag_myanmar,🇲🇲,flag Myanmar (Burma),缅甸国旗
+8,flag_mongolia,🇲🇳,flag Mongolia,蒙古国旗
+8,flag_macao_sar_china,🇲🇴,flag Macao SAR China,中国澳门特别行政区旗
+8,flag_northern_mariana_islands,🇲🇵,flag Northern Mariana Islands,北马里亚纳群岛旗
+8,flag_martinique,🇲🇶,flag Martinique,马提尼克国旗
+8,flag_mauritania,🇲🇷,flag Mauritania,毛里塔尼亚国旗
+8,flag_montserrat,🇲🇸,flag Montserrat,蒙特塞拉特国旗
+8,flag_malta,🇲🇹,flag Malta,马耳他国旗
+8,flag_mauritius,🇲🇺,flag Mauritius,毛里求斯国旗
+8,flag_maldives,🇲🇻,flag Maldives,马尔代夫国旗
+8,flag_malawi,🇲🇼,flag Malawi,马拉维国旗
+8,flag_mexico,🇲🇽,flag Mexico,墨西哥国旗
+8,flag_malaysia,🇲🇾,flag Malaysia,马来西亚国旗
+8,flag_mozambique,🇲🇿,flag Mozambique,莫桑比克国旗
+8,flag_namibia,🇳🇦,flag Namibia,纳米比亚国旗
+8,flag_new_caledonia,🇳🇨,flag New Caledonia,新喀里多尼亚国旗
+8,flag_niger,🇳🇪,flag Niger,尼日尔国旗
+8,flag_norfolk_island,🇳🇫,flag Norfolk Island,诺福克岛旗
+8,flag_nigeria,🇳🇬,flag Nigeria,尼日利亚国旗
+8,flag_nicaragua,🇳🇮,flag Nicaragua,尼加拉瓜国旗
+8,flag_netherlands,🇳🇱,flag Netherlands,荷兰国旗
+8,flag_norway,🇳🇴,flag Norway,挪威国旗
+8,flag_nepal,🇳🇵,flag Nepal,尼泊尔国旗
+8,flag_nauru,🇳🇷,flag Nauru,瑙鲁国旗
+8,flag_niue,🇳🇺,flag Niue,纽埃国旗
+8,flag_new_zealand,🇳🇿,flag New Zealand,新西兰国旗
+8,flag_oman,🇴🇲,flag Oman,阿曼国旗
+8,flag_panama,🇵🇦,flag Panama,巴拿马国旗
+8,flag_peru,🇵🇪,flag Peru,秘鲁国旗
+8,flag_french_polynesia,🇵🇫,flag French Polynesia,法属波利尼西亚国旗
+8,flag_papua_new_guinea,🇵🇬,flag Papua New Guinea,巴布亚新几内亚国旗
+8,flag_philippines,🇵🇭,flag Philippines,菲律宾国旗
+8,flag_pakistan,🇵🇰,flag Pakistan,巴基斯坦国旗
+8,flag_poland,🇵🇱,flag Poland,波兰国旗
+8,flag_st_pierre_miquelon,🇵🇲,flag St. Pierre & Miquelon,圣皮埃尔和密克隆岛旗
+8,flag_pitcairn_islands,🇵🇳,flag Pitcairn Islands,皮特凯恩群岛旗
+8,flag_puerto_rico,🇵🇷,flag Puerto Rico,波多黎各国旗
+8,flag_palestinian_territories,🇵🇸,flag Palestinian Territories,巴勒斯坦领土国旗
+8,flag_portugal,🇵🇹,flag Portugal,葡萄牙国旗
+8,flag_palau,🇵🇼,flag Palau,帕劳国旗
+8,flag_paraguay,🇵🇾,flag Paraguay,巴拉圭国旗
+8,flag_qatar,🇶🇦,flag Qatar,卡塔尔国旗
+8,flag_reunion,🇷🇪,flag Réunion,留尼汪岛旗
+8,flag_romania,🇷🇴,flag Romania,罗马尼亚国旗
+8,flag_serbia,🇷🇸,flag Serbia,塞尔维亚国旗
+8,flag_russia,🇷🇺,flag Russia,俄罗斯国旗
+8,flag_rwanda,🇷🇼,flag Rwanda,卢旺达国旗
+8,flag_saudi_arabia,🇸🇦,flag Saudi Arabia,沙特阿拉伯国旗
+8,flag_solomon_islands,🇸🇧,flag Solomon Islands,所罗门群岛国旗
+8,flag_seychelles,🇸🇨,flag Seychelles,塞舌尔国旗
+8,flag_sudan,🇸🇩,flag Sudan,苏丹国旗
+8,flag_sweden,🇸🇪,flag Sweden,瑞典国旗
+8,flag_singapore,🇸🇬,flag Singapore,新加坡国旗
+8,flag_st_helena,🇸🇭,flag St. Helena,圣赫勒拿国旗
+8,flag_slovenia,🇸🇮,flag Slovenia,斯洛文尼亚国旗
+8,flag_svalbard_jan_mayen,🇸🇯,flag Svalbard & Jan Mayen,斯瓦尔巴群岛和扬马延岛国旗
+8,flag_slovakia,🇸🇰,flag Slovakia,斯洛伐克国旗
+8,flag_sierra_leone,🇸🇱,flag Sierra Leone,塞拉利昂国旗
+8,flag_san_marino,🇸🇲,flag San Marino,圣马力诺国旗
+8,flag_senegal,🇸🇳,flag Senegal,塞内加尔国旗
+8,flag_somalia,🇸🇴,flag Somalia,索马里国旗
+8,flag_suriname,🇸🇷,flag Suriname,苏里南国旗
+8,flag_south_sudan,🇸🇸,flag South Sudan,南苏丹国旗
+8,flag_sao_tome_principe,🇸🇹,flag São Tomé & Príncipe,圣多美和普林西比国旗
+8,flag_el_salvador,🇸🇻,flag El Salvador,萨尔瓦多国旗
+8,flag_sint_maarten,🇸🇽,flag Sint Maarten,圣马丁国旗
+8,flag_syria,🇸🇾,flag Syria,叙利亚国旗
+8,flag_eswatini,🇸🇿,flag Eswatini,国旗 埃斯瓦蒂尼
+8,flag_tristan_da_cunha,🇹🇦,flag Tristan da Cunha,特里斯坦-达库尼亚岛旗
+8,flag_turks_caicos_islands,🇹🇨,flag Turks & Caicos Islands,特克斯和凯科斯群岛旗
+8,flag_chad,🇹🇩,flag Chad,乍得国旗
+8,flag_french_southern_territories,🇹🇫,flag French Southern Territories,法属南部领土国旗
+8,flag_togo,🇹🇬,flag Togo,多哥国旗
+8,flag_thailand,🇹🇭,flag Thailand,泰国国旗
+8,flag_tajikistan,🇹🇯,flag Tajikistan,塔吉克斯坦国旗
+8,flag_tokelau,🇹🇰,flag Tokelau,托克劳国旗
+8,flag_timor_leste,🇹🇱,flag Timor-Leste,东帝汶国旗
+8,flag_turkmenistan,🇹🇲,flag Turkmenistan,土库曼斯坦国旗
+8,flag_tunisia,🇹🇳,flag Tunisia,突尼斯国旗
+8,flag_tonga,🇹🇴,flag Tonga,汤加国旗
+8,flag_turkiye,🇹🇷,flag Türkiye,图尔基耶国旗
+8,flag_trinidad_tobago,🇹🇹,flag Trinidad & Tobago,特立尼达和多巴哥国旗
+8,flag_tuvalu,🇹🇻,flag Tuvalu,图瓦卢国旗
+8,flag_taiwan,🇹🇼,flag Taiwan,台湾国旗
+8,flag_tanzania,🇹🇿,flag Tanzania,坦桑尼亚国旗
+8,flag_ukraine,🇺🇦,flag Ukraine,乌克兰国旗
+8,flag_uganda,🇺🇬,flag Uganda,乌干达国旗
+8,flag_u_s_outlying_islands,🇺🇲,flag U.S. Outlying Islands,美国本土旗
+8,flag_united_nations,🇺🇳,flag United Nations,联合国旗帜
+8,flag_united_states,🇺🇸,flag United States,美国国旗
+8,flag_uruguay,🇺🇾,flag Uruguay,乌拉圭国旗
+8,flag_uzbekistan,🇺🇿,flag Uzbekistan,乌兹别克斯坦国旗
+8,flag_vatican_city,🇻🇦,flag Vatican City,梵蒂冈城旗
+8,flag_st_vincent_grenadines,🇻🇨,flag St. Vincent & Grenadines,圣文森特和格林纳丁斯国旗
+8,flag_venezuela,🇻🇪,flag Venezuela,委内瑞拉国旗
+8,flag_british_virgin_islands,🇻🇬,flag British Virgin Islands,英属维尔京群岛国旗
+8,flag_u_s_virgin_islands,🇻🇮,flag U.S. Virgin Islands,美属维尔京群岛国旗
+8,flag_vietnam,🇻🇳,flag Vietnam,越南国旗
+8,flag_vanuatu,🇻🇺,flag Vanuatu,瓦努阿图国旗
+8,flag_wallis_futuna,🇼🇫,flag Wallis & Futuna,瓦利斯和富图纳国旗
+8,flag_samoa,🇼🇸,flag Samoa,萨摩亚国旗
+8,flag_kosovo,🇽🇰,flag Kosovo,科索沃国旗
+8,flag_yemen,🇾🇪,flag Yemen,也门国旗
+8,flag_mayotte,🇾🇹,flag Mayotte,马约特岛旗
+8,flag_south_africa,🇿🇦,flag South Africa,南非国旗
+8,flag_zambia,🇿🇲,flag Zambia,赞比亚国旗
+8,flag_zimbabwe,🇿🇼,flag Zimbabwe,津巴布韦国旗
+8,flag_england,🏴󠁧󠁢󠁥󠁮󠁧󠁿,flag England,英格兰国旗
+8,flag_scotland,🏴󠁧󠁢󠁳󠁣󠁴󠁿,flag Scotland,苏格兰国旗
+8,flag_wales,🏴󠁧󠁢󠁷󠁬󠁳󠁿,flag Wales,威尔士国旗
