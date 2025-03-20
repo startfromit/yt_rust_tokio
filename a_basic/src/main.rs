@@ -15,5 +15,5 @@ async fn main() {
     run().await;
     let end = std::time::Instant::now();
 
-    println!("took {:?} secs.", end - start);
+    println!("Took {:?} secs.", end - start);
 }
